@@ -65,3 +65,47 @@ As an existing customer of INTOL, I want to be able to easily access support res
 User Story 4: Journalist Investigating a Story
 As a journalist investigating a story, I want to learn about INTOL's capabilities and products related to open source analysis. I want to easily find the relevant information on the website and have a clear idea of how INTOL's services can be useful for my investigation.
 
+## Design
+
+
+### Colour Scheme
+
+The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS:
+
+css
+Copy code
+:root {
+  --black: #000000;
+  --offwhite: #fafafa;
+  --white: #fff;
+  --midgrey : #3a3a3a;
+}
+The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. In future updates, we may consider adding a bright color accent to the color scheme to create more visual interest.
+
+
+### Typography
+
+The INTOL website uses two Google Fonts for typography: Lato and Roboto. Lato is used for headings and titles, while Roboto is used for body text. Both fonts were chosen for their modern look and excellent legibility, which makes reading and navigation on the website easy and comfortable.
+
+
+*Why did you choose the font you have?
+Is this an accessibly friendly font?
+What weights have you included?*
+
+
+### Layout
+The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout across all pages of the website, which makes navigation and exploration more intuitive for visitors.
+
+### Imagery
+
+
+
+### Wireframes
+
+
+
+### Future updates
+As the INTOL website continues to evolve, we will continue to refine and improve the design based on feedback from our users and our own observations. We are committed to creating a website that is not only visually appealing but also easy to use and navigate, and we look forward to continuing to develop and improve our design over time.
+
+Overall, the design of the INTOL website is clean, modern, and easy to use. We believe that our color scheme, typography, layout, and other visual elements help to communicate the values and capabilities of INTOL in a clear and compelling way, and we look forward to continuing to refine and improve our design in the future.
+
