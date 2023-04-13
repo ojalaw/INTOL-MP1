@@ -72,14 +72,14 @@ As a journalist investigating a story, I want to learn about INTOL's capabilitie
 
 The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS:
 
-css
-Copy code
 :root {
   --black: #000000;
   --offwhite: #fafafa;
   --white: #fff;
   --midgrey : #3a3a3a;
 }
+
+
 The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. In future updates, we may consider adding a bright color accent to the color scheme to create more visual interest.
 
 
