@@ -43,6 +43,33 @@
       </div>
     </nav>
     </header>
+    <section class="form-section">
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+          <h2>Subscribe for more information!</h2>
+          <label for="fname">First Name</label>
+          <input id="fname" class="text-input" type="text" name="first_name" required />
+          <label for="lname">Last Name</label>
+          <input id="lname" class="text-input" type="text"  name="last_name" required />
+          <label for="email">Email Address</label>
+          <input id="email" class="text-input" type="email" name="email_address" required/>
+          <div class="comments-section">
+            <label for="comments">Comments:</label>
+            <textarea id="comments" name="comments" placeholder="Description of requirement" class="comments-input" required></textarea>
+          </div>
+          <div class="int-preference-section">
+            <h3>Intelligence preference:</h3>
+            <label for="osint">OSINT</label>
+            <input id="osint" type="checkbox" name ="int_preference" value="osint" />
+            <label for="imint">IMINT</label>
+            <input id="imint" type="checkbox" name="int_preference" value="imint"/>
+            <label for="geoint">GEOINT</label>
+            <input id="geoint" type="checkbox" name="int_preference" value="geoint"/>
+            <label for="all">All</label>
+            <input id="all" type="checkbox" name="int_preference" value="all"/>
+          </div>
+          <input class="subscribe-button"  type="submit" value="Subscribe!"/>
+        </form>
+      </section>
 
     <footer>
         <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)"><i class="fa-brands fa-square-facebook"></i></a>
