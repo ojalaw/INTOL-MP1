@@ -228,6 +228,36 @@
   justify-content: center;
   margin-bottom: 20px;
 }
+
+/*--about-us-page--*/
+
+.intol-statement {
+   text-align: center;
+   margin-top: 20px;
+ }
+
+ .page-title {
+   text-align: center;
+   padding-bottom: 10px;
+   margin: 50px;
+ }
+
+ #about-us-summary {
+   margin-top: 50px;
+  }
+
+  .key-heading-section {
+   margin-bottom:70px;
+  }
+
+  .text-border {
+   line-height: 2;
+    background-color: var(--midgrey);
+    border-radius: 10px;
+    padding: 5px;
+ }
+ 
+
  /*--footer--*/
  
  footer {
