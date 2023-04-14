@@ -29,6 +29,10 @@
     text-transform: uppercase;
  }
 
+ section {
+   margin-bottom:20px;
+ }
+
   /*--home-page--*/
 
 .intol-statement {
@@ -326,6 +330,14 @@
    padding: 5px;
 }
 
+.set-width {
+   max-width: 400px;
+}
+
+#future-capabilities {
+   margin-top: 30px;
+   margin-bottom: 30px;
+ }
 
  /*--images--*/
  
