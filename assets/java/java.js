@@ -53,3 +53,12 @@ function imageZoom(imgID, resultID) {
       return {x : x, y : y};
     }
   }
+
+  window.onload = function() {
+    const button = document.getElementById("myButton");
+    const message = document.getElementById("message");
+  
+    button.addEventListener("click", function() {
+        message.style.display = "block";
+    });
+  };
