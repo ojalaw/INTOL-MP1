@@ -4,7 +4,7 @@ INTOL is a site that provides intelligence solutions for customers. There is an 
 
 This is my Milestone Project 1 submission for Code Institute's Diploma in Web Application Development course. My website features five pages and is built using technologies that I have learnt including HTML and CSS.
 
-![alt text](assets/images/mockup.png "Optional title")
+![alt text](README-images/mockup.png "Optional title")
 
 Link to live site: https://ojalaw.github.io/INTOL-MP1/ 
 
@@ -72,13 +72,7 @@ As a journalist investigating a story, I want to learn about INTOL's capabilitie
 
 The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS:
 
-:root {
-  --black: #000000;
-  --offwhite: #fafafa;
-  --white: #fff;
-  --midgrey : #3a3a3a;
-}
-
+![alt text](README-images/color-wheel.png "Optional title")
 
 The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. In future updates, we may consider adding a bright color accent to the color scheme to create more visual interest.
 
