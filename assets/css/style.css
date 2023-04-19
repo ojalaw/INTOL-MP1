@@ -234,8 +234,8 @@
 }
 
 .button:hover {
-   background-color: var(--black);
-   color: var(--offwhite);
+   background-color: var(--offwhite);
+   color: var(--black);
    border: 4px solid white;
 }
 
@@ -475,6 +475,8 @@
    height:426px;
    margin-left: 100px;
    border-radius: 10px;
+   max-width: 100%;
+   height: auto;
  }
  
  .crowd-text {
@@ -484,10 +486,6 @@
  .test {
    margin-left: 400px;
  }
-
-.opportunity-text {
-   margin-top: 100px;
-  }
 
 * {box-sizing: border-box;}
 
@@ -511,6 +509,20 @@
   
 }
 
+.recruitment-container {
+  background-color: var(--midgrey);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.recruitment-text {
+  line-height: 2;
+}
+
+.recruitment-text p {
+  margin-bottom: 10px;
+}
+
  /*--footer--*/
  
  footer {
@@ -518,6 +530,7 @@
    padding: 1.5em 0; 
    text-align: center;
    width: 100%;
+   bottom: 0;
  }
  
  footer > span {
@@ -593,7 +606,7 @@
  }
  
  @media (max-width: 768px) { 
-   .img-zoom-container .img-zoom-text {
+   .img-zoom-container, .img-zoom-text, .test {
      display: none;
      height: 0;
      overflow: hidden;
@@ -610,5 +623,33 @@
     width: 100%;
     height: auto;
     margin-bottom: 20px;
+  }
+}
+
+
+#map-container {
+  position: relative;
+  height: 400px;
+  margin-bottom: 50px;
+}
+
+#gmp-map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 876px) {
+  #gmp-map {
+    left: 0;
+    bottom: 50%;
+  }
+}
+
+@media only screen and (max-width: 1338px) {
+  .img-zoom-container, .img-zoom-text, .test {
+    display: none;
   }
 }
