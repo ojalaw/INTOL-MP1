@@ -391,9 +391,10 @@
  }
  
  .subscribe-button {
-   background-color: rgb(180, 180, 180);
+   background-color: var(--black)
    border: none;
    color: var(--offwhite);
+   border: 4px solid white;
    padding: 1.25rem;
    text-align: center;
    text-decoration: none;
@@ -406,8 +407,9 @@
  }
  
  .subscribe-button:hover {
-   background-color: var(--midgrey);
- }
+   background-color: var(--offwhite);
+   color: var(--black)
+  }
  
  .comments-section {
    margin-top: 30px;
@@ -484,8 +486,8 @@
  }
  
  .test {
-   margin-left: 400px;
- }
+  margin-left: 400px;
+}
 
 * {box-sizing: border-box;}
 
@@ -605,18 +607,6 @@
    }
  }
  
- @media (max-width: 768px) { 
-   .img-zoom-container, .img-zoom-text, .test {
-     display: none;
-     height: 0;
-     overflow: hidden;
-   }
-   .crowd-test {
-     width: 100%;
-     margin-left: 0;
-     margin-right: 0;
-   }
- }
 
  @media screen and (max-width: 1078px) {
   .embed-responsive-item {
@@ -648,8 +638,14 @@
   }
 }
 
-@media only screen and (max-width: 1338px) {
+@media only screen and (max-width: 1500px) {
   .img-zoom-container, .img-zoom-text, .test {
     display: none;
   }
+}
+.crowd-test {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
 }
