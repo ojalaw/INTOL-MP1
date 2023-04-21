@@ -117,11 +117,16 @@ Social media links: The footer section includes links to INTOL's social media pr
 
 Home page
 Hero section: The hero section includes a stunning image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.
+
 ![alt text](README-images/hero-image-readme.png "Optional title")
+
 Statement section: The statement section provides a brief overview of INTOL's capabilities and values, and includes images that showcase the types of intelligence solutions provided by the company.
 Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus.
+
 ![alt text](README-images/spinning-earth-readme.png "Optional title")
+
 Capabilities button: The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions.
+
 ![alt text](README-images/home-page-summary-readme.png "Optional title")
 
 About us
@@ -130,17 +135,20 @@ Statement section: The statement section provides a brief introduction to INTOL 
 "Our Selection Process" section: This section explains INTOL's selection process for analysts, including assessment of qualifications, experience, and aptitude.
 "Our Training" section: This section describes the training process for analysts at INTOL, including basic intelligence principle training, capability training, and on-the-job training.
 "Our Sources" section: This section explains the sources INTOL uses for training and operational purposes, including Janes and Maxar.
-![alt text](README-images/iframe-readme.png "Optional title")
 
-I purposely chose to keep this page is simplistic as possible, inlcluding Fontawesome icons to make the site more visually appealing
+I purposely chose to keep this page is simplistic as possible, inlcluding Fontawesome icons to make the site more visually appealing.
+
 ![alt text](README-images/about-us-readme.png "Optional title")
+
 The purpose of this page was to be more informative than visually appealing, I appreciate that this could be achieved by using images/other methods, however i didn't want my site to be made up solely by CSS and images and felt that it was necessary to include text on the 'About us' Page.
 
 Capabilities
 The capabilities page contains information about INTOL's three main intelligence capabilities: IMINT, GEOINT, and OSINT.
 Each capability is presented in a section with an image and a description of the technique used and the products produced.
 The page also includes a section on future capabilities, with information about INTOL's plans to offer cyber, financial, and human intelligence services.
-The sections on the page alternate the side of the page they appear on for an appealing flow.
+The sections on the page alternate the side of the page they appear on for an appealing flow, I went with a symbolic approach with the spherical capability images, i wanted them to appear as though they were viewed through a spy glass in keeping with the intelligence theme.
+
+![alt text](README-images/capability-readme.png "Optional title")
 
 Opportunities
 Title: The title of the page is "Opportunities". It appears at the top of the page and provides users with a clear idea of what the page is about.

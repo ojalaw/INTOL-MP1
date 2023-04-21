@@ -17,7 +17,7 @@
     background-color: var(--midgrey);
   }
 
- h1, h2, h3 {
+ h1, h2, h3, h4, h5 {
     font-family: Lato, sans-serif;
     letter-spacing: 0.25rem;
     color: var(--offwhite);
@@ -474,13 +474,15 @@
  }
  
  .test {
-  margin-left: 400px;
+  left: 700px
 }
 
 * {box-sizing: border-box;}
 
 .img-zoom-container {
   position: relative;
+  left: 350px;
+
   
 }
 
@@ -499,6 +501,10 @@
   
 }
 
+.img-zoom-text {
+  left:700px;
+}
+
 .recruitment-container {
   background-color: var(--midgrey);
   border-radius: 10px;
@@ -511,6 +517,7 @@
 
 .recruitment-text p {
   margin-bottom: 10px;
+  left:350px;
 }
 
  /*--footer--*/
