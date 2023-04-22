@@ -200,6 +200,8 @@ Drawio
 
 ### Deployment
 
+**How was this site deployed?**
+
 The website was initially deployed on GitHub pages.
 
 **Deploying on GitHub Pages**
@@ -210,6 +212,14 @@ Add the necessary files to the repository
 Go to the settings page of the repository, located on the menu bar towards the top of the page, scroll down to the GitHub Pages section which is located at the bottom of the 'Code and automation' sub-section.
 Select the main branch and the root folder, then click save
 The website will now be live at the URL provided in the GitHub Pages section
+
+**How to clone the repository**
+
+Go to the https://github.com/ojalaw/INTOL-MP1 repository on GitHub
+Click the "Code" button to the right of the screen, click HTTPs and copy the link there
+Open a GitBash terminal and navigate to the directory where you want to locate the clone
+On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+
 
 
 ## Testing
