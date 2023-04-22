@@ -104,28 +104,32 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 ### General features on each page
 
-Navigation bar: The top navigation bar makes it easy for users to find their way around the website and access other pages.
+**Navigation bar:** F01 The top navigation bar makes it easy for users to find their way around the website and access other pages. 
 
-Social media links: The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice.
+![alt text](README-images/navbar-readme.png "Optional title")
+
+**Social media links:** F02 The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice.
+
+![alt text](README-images/socials-readme.png "Optional title")
 
 ### General features on individual pages
 
-Home page
-Hero section: The hero section includes a stunning image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.
+**Home page**
+**Hero section:** F03 The hero section includes a stunning image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.
 
 ![alt text](README-images/hero-image-readme.png "Optional title")
 
-Statement section: The statement section provides a brief overview of INTOL's capabilities and values, and includes images that showcase the types of intelligence solutions provided by the company.
+**Statement section:** F04 The statement section provides a brief overview of INTOL's capabilities and values, and includes images that showcase the types of intelligence solutions provided by the company.
 Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus.
 
 ![alt text](README-images/spinning-earth-readme.png "Optional title")
 
-Capabilities button: The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions.
+**Capabilities button:** F05 The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions.
 
 ![alt text](README-images/home-page-summary-readme.png "Optional title")
 
-About us
-Statement section: The statement section provides a brief introduction to INTOL and its intelligence capabilities.
+**About us**
+**Statement section:** The statement section provides a brief introduction to INTOL and its intelligence capabilities.
 "INTOL at a glance" section: This section provides a brief overview of INTOL's key capabilities, including global satellite coverage, a wide range of assets, an archive of historic products, and 20+ years of military experience.
 "Our Selection Process" section: This section explains INTOL's selection process for analysts, including assessment of qualifications, experience, and aptitude.
 "Our Training" section: This section describes the training process for analysts at INTOL, including basic intelligence principle training, capability training, and on-the-job training.
@@ -137,7 +141,7 @@ I purposely chose to keep this page is simplistic as possible, inlcluding Fontaw
 
 The purpose of this page was to be more informative than visually appealing, I appreciate that this could be achieved by using images/other methods, however i didn't want my site to be made up solely by CSS and images and felt that it was necessary to include text on the 'About us' Page.
 
-Capabilities
+**Capabilities**
 The capabilities page contains information about INTOL's three main intelligence capabilities: IMINT, GEOINT, and OSINT.
 Each capability is presented in a section with an image and a description of the technique used and the products produced.
 The page also includes a section on future capabilities, with information about INTOL's plans to offer cyber, financial, and human intelligence services.
@@ -145,7 +149,7 @@ The sections on the page alternate the side of the page they appear on for an ap
 
 ![alt text](README-images/capability-readme.png "Optional title")
 
-Opportunities
+**Opportunities**
 Title: The title of the page is "Opportunities". It appears at the top of the page and provides users with a clear idea of what the page is about.
 Information about Recruitment: The page provides information about a recruitment drive for an office setting up in London, as well as IMINT positions that will be opening up in Q3 2023.
 Image Zoom: The page features an image zoom function that allows users to zoom in on an image by hovering their mouse over it. This is achieved through the use of JavaScript.
@@ -155,7 +159,7 @@ Call-to-action: The page includes a call-to-action button that encourages users 
 
 Overall, the page is designed to provide users with information about job opportunities at INTOL, as well as to encourage them to subscribe for more information. It makes use of various design features, such as a navigation bar, images, and a call-to-action button, to engage users and make it easy for them to find the information they need.
 
-Subscribe
+**Subscribe**
 Form section: The page contains a form that users can fill out to subscribe to the INTOL newsletter and receive more information about the company. The form includes fields for the user's first and last name, email address, and comments. There is also a section for users to select their intelligence preference (OSINT, IMINT, GEOINT, or All) using checkboxes.
 Subscribe button: At the bottom of the form, there is a button that users can click to submit their subscription information.
 Text section: The page also includes a text section that provides information about the cost of INTOL's services and the benefits of subscribing for more information.
@@ -170,19 +174,20 @@ Historic archive of products, future capabilities will have their own section.
 
 ## Technologies Used
 
+Compressor.io was used to reduce the size of images, this was recommended during validation.
 
 
 ### Languages Used
 
-
+HTML, CSS and Javascript.
 
 ### Frameworks, Libraries & Programs Used
 
-Latest version of bootstrap
+Bootstrap 5.3.0
 
 Google fonts
 
-Fontawesome
+Font Awesome 6.3.0
 
 Github
 
@@ -195,8 +200,30 @@ Drawio
 
 ### Deployment
 
+The website was initially deployed on GitHub pages.
+
+**Deploying on GitHub Pages**
+To deploy the website on GitHub Pages, the following steps were followed:
+
+**Create a new repository on GitHub**
+Add the necessary files to the repository
+Go to the settings page of the repository, located on the menu bar towards the top of the page, scroll down to the GitHub Pages section which is located at the bottom of the 'Code and automation' sub-section.
+Select the main branch and the root folder, then click save
+The website will now be live at the URL provided in the GitHub Pages section
+
 
 ## Testing
+
+There were some bugs that were highlighted during testing phase.
+
+- iframes overflowed the container.
+- Form on the subscription page was not responsive in the way I orginally intended.
+- Images on the opportunity page were not responsive.
+- The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.
+
+Validation testing
+
+
 
 
 
@@ -205,6 +232,13 @@ Drawio
 
 
 ### Code Used
+
+Opportunities page
+
+Map - Google Maps API - https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript
+Image Zoom test - w3schools https://www.w3schools.com/howto/howto_js_image_zoom.asp
+
+
 
 
 
@@ -217,6 +251,9 @@ Drawio
 
   
 ###  Acknowledgments
+
+Code Institute
+Mentor
 
 
 

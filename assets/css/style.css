@@ -133,10 +133,12 @@
     -moz-transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
+    display: inline-block;
  }
  
  .nav-link:hover {
     border-color: var(--offwhite);
+    display: inline-block;
  }
  
  .active {
