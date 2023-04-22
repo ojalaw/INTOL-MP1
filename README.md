@@ -81,17 +81,12 @@ The use of these colors creates a clean and modern look that is easy on the eyes
 
 The INTOL website uses two Google Fonts for typography: Lato and Roboto. Lato is used for headings and titles, while Roboto is used for body text. Both fonts were chosen for their modern look and excellent legibility, which makes reading and navigation on the website easy and comfortable.
 
-
-*Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?*
-
-
 ### Layout
 The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout across all pages of the website, which makes navigation and exploration more intuitive for visitors.
 
 ### Imagery
 
+Imagery on the site was sourced from Shutterstock and Adobestock.
 
 
 ### Wireframes
@@ -167,6 +162,7 @@ Text section: The page also includes a text section that provides information ab
 
 ### Future Implementations
 
+Historic archive of products, future capabilities will have their own section.
 
 ### Accessibility
 

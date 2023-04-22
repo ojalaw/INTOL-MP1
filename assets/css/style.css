@@ -356,121 +356,134 @@
    width: 308px;
    height: 308px;
  }
+
+ /*--subscribe--*/
  
+ .subscribe-background {
+  background-image: url("../images/aerial.jpeg");
+  background-size: cover;
+}
+
  .form-section {
-   clear: both;
-   background-size: cover;
-   background-position: center;
-   height: 900px;
- }
- 
- .signup-form {
-   margin-top: 50px;
-   color: #fff;
-   background-color: rgba(60, 60, 60, 0.6);
-   max-width: 500px;
-   position: absolute;
-   left: 10%;
-   padding: 30px;
-   border-radius: 10px;
- }
- 
- .signup-form > h2 {
-   color: #fafafa;
-   margin-bottom: 20px;
- }
- 
- .text-input {
-   background: transparent;
-   color: #fafafa;
-   width: 100%;
-   height: 25px;
-   margin: 5px 0 20px 0;
-   border: 1px solid #fafafa;
-   border-radius: 2px;
- }
- 
- .text-input:hover {
-   border-color: var(--black);
- }
- 
- .subscribe-button {
-   background-color: var(--black);
-   border: none;
-   color: var(--offwhite);
-   border: 4px solid white;
-   padding: 1.25rem;
-   text-align: center;
-   text-decoration: none;
-   display: block;
-   width: 100%;
-   font-size: 1.25rem;
-   border-radius: 8px;
-   font-weight: bold;
-   margin-top: 1.875rem;
- }
- 
- .subscribe-button:hover {
-   background-color: var(--offwhite);
-   color: var(--black)
-  }
- 
- .comments-section {
-   margin-top: 30px;
- }
- 
- .comments-input {
-   background: transparent;
-   color: #fafafa;
-   width: 100%;
-   height: 150px;
-   margin: 5px 0 20px 0;
-   border: 1px solid #fafafa;
-   border-radius: 2px;
- }
- 
- .comments-input:hover {
-   border-color: var(--black);
+  clear: both;
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
+.signup-form {
+  margin-top: 50px;
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.6);
+  max-width: 500px;
+  position: absolute;
+  left: 10%;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.signup-form > h2 {
+  color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.text-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid var(--offwhite);
+  border-radius: 2px;
+}
+
+.text-input:hover {
+  border-color: var(--black);
+}
+
+.subscribe-button {
+  background-color: var(--black);
+  border: none;
+  color: var(--offwhite);
+  border: 2px solid var(--white);
+  padding: 1.25rem;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 1.875rem;
+}
+
+.subscribe-button:hover {
+  background-color: var(--offwhite);
+  color: var(--black)
  }
 
- .int-preference-section {
-   text-align: center;
-   margin-top: 50px;
- }
- 
- .int-preference-section label {
-   display: block;
-   margin-bottom: 10px;
- }
- 
- .int-preference-section input {
-   margin-right: 10px;
- }
+.comments-section {
+  margin-top: 30px;
+}
 
- .int-preference-section label,
+.comments-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 150px;
+  margin: 5px 0 20px 0;
+  border: 1px solid var(--offwhite);
+  border-radius: 2px;
+}
+
+.comments-input:hover {
+  border-color: var(--black);
+}
+
+.int-preference-section {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.int-preference-section label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.int-preference-section input {
+  margin-right: 10px;
+}
+
+.int-preference-section label,
 .int-preference-section input[type="checkbox"] {
-  display: inline-block;
-  margin-right: 10px; /
+ display: inline-block;
+ margin-right: 10px; /
 }
 
 .form-section {
   float: left;
   width: 50%;
+ }
+
+::placeholder {
+  font-weight: semi-bold;
+  color: var(--white)
 }
+
 
 /*--opportunities--*/
 
 .crowd-test {
-   width:640px;
-   height:426px;
-   margin-left: 100px;
+   padding-left: 100px;
+   padding-right:50px;
    border-radius: 10px;
    max-width: 100%;
    height: auto;
  }
  
  .crowd-text {
-   margin-left: 100px;
+   text-align: center;
+   padding-top: 30px;
  }
  
  .test {
@@ -502,17 +515,15 @@
 }
 
 .img-zoom-text {
-  left:700px;
-}
-
-.recruitment-container {
-  background-color: var(--midgrey);
-  border-radius: 10px;
-  padding: 20px;
+  padding-top: 30px;
 }
 
 .recruitment-text {
+  background-color: var(--midgrey);
+  border-radius: 10px;
+  padding: 20px;
   line-height: 2;
+  display: inline-block;
 }
 
 .recruitment-text p {
@@ -520,6 +531,9 @@
   left:350px;
 }
 
+#message {
+  text-align: center;
+}
  /*--footer--*/
  
  footer {
@@ -589,10 +603,6 @@
     top: auto;
     transform: none;
   }
-
-  .subscribe-text {
-    margin-top: 20px;
-  }
 }
 
 @media screen and (max-width: 767px) {
@@ -633,28 +643,16 @@
   }
 }
 
-@media only screen and (max-width: 1500px) {
-  .img-zoom-container, .img-zoom-text, .test {
+@media only screen and (max-width: 1200px) {
+  .img-zoom-container, .img-zoom-text {
     display: none;
   }
 }
-.crowd-test {
-  width: 100%;
-  margin-left: 0;
-  margin-right: 0;
-}
-}
 
-@media (max-width: 767px) {
-  .signup-form {
-    margin: 0;
+@media only screen and (max-width: 800px) {
+  .crowd-test {
     width: 100%;
-    max-width: 320px;
-    left: 0;
-    padding: 30px 5%;
-  }
-  
-  .signup-form img {
-    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
