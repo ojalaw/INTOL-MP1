@@ -2,7 +2,7 @@
 
 INTOL is a site that provides intelligence solutions for customers. There is an initial focus on 3 different capabilities, Imagery intelligence, Geospatial Intelligence and Open Source Intelligence. These types of intelligence are relatively unknown but with the right exposure, could be hugely beneficial to business/individuals condicting activities in a vulnerable area ir region. The website sheds light on what the different types of intelligence are, the products that can be created and the training that respective analysts go through to be qualified.
 
-This is my Milestone Project 1 submission for Code Institute's Diploma in Web Application Development course. My website features five pages and is built using technologies that I have learnt including HTML and CSS.
+This is Milestone Project 1 for Code Institute's Diploma in Web Application Development course. This website features five pages and is built using technologies that I have learnt since staring the course including HTML and CSS and also contains Javascript.
 
 ![alt text](README-images/mockup.png "Optional title")
 
@@ -32,9 +32,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
+* [Deployment](#deployment)
     * [How to Fork](#how-to-fork)
     * [How to Clone](#how-to-clone)
 
@@ -86,12 +84,14 @@ The layout of the INTOL website is built using the Bootstrap framework, which pr
 
 ### Imagery
 
-Imagery on the site was sourced from Shutterstock and Adobestock.
+I spent a great deal of time when it came to selecting the images for use on the site. I believe that the images chosen are consistent with the general design theme of the site and are all of the highest quality possible. All images have been compressed to speed up processing times, predominantly on mobile devices.
+
+Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay.
 
 
 ### Wireframes
 
-
+![INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Optional title")
 
 ### Future updates
 As the INTOL website continues to evolve, we will continue to refine and improve the design based on feedback from our users and our own observations. We are committed to creating a website that is not only visually appealing but also easy to use and navigate, and we look forward to continuing to develop and improve our design over time.
@@ -99,7 +99,6 @@ As the INTOL website continues to evolve, we will continue to refine and improve
 Overall, the design of the INTOL website is clean, modern, and easy to use. We believe that our color scheme, typography, layout, and other visual elements help to communicate the values and capabilities of INTOL in a clear and compelling way, and we look forward to continuing to refine and improve our design in the future.
 
 ## Features
-
 
 
 ### General features on each page
@@ -172,10 +171,8 @@ Historic archive of products, future capabilities will have their own section.
 
 
 
+
 ## Technologies Used
-
-Compressor.io was used to reduce the size of images, this was recommended during validation.
-
 
 ### Languages Used
 
@@ -184,21 +181,57 @@ HTML, CSS and Javascript.
 ### Frameworks, Libraries & Programs Used
 
 Bootstrap 5.3.0
+Bootstrap was used to assist with the responsiveness and styling of the website.
+
+jQuery:
+jQuery came with Bootstrap to make the navbar responsive.
 
 Google fonts
+Google fonts were used to import Lato and Roboto fonts which is used on all pages throughout the project.
 
 Font Awesome 6.3.0
+Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
 Github
+GitHub is used to store the projects code after being pushed from Git.
 
 Drawio
+Drawio was used to create the wireframes during the design process.
+
+Visual Studio Code
+Visual Studio Code was use to create files pages and where i produced the code for the project.
+
+Compressor.io 
+Compressor.io was used to reduce the size of images, this was recommended during validation.
+
+Canva
+Canva design tool was used to increase the exposure on my hero image to ensure it was consistent with the theme of the site. 
+
+Google Chrome Dev Tools
+Google Chrome Dev Tools was used during the testing phase to test the responsiveness of the site and to check for any bugs.
+
+Shutterstock, Adobe Stock and Pixabay
+These sites were used to source the imagery for my site.
+
+W3schools
+W3schools was used to sourece javascript for my site and for certain CSS aspects (mentioned below).
+
+PageSpeed Insights
+PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.
 
 
-## Deployment & Local Development
+## Testing
 
+There were some bugs that were highlighted during testing phase.
 
+- iframes overflowed the container.
+- Form on the subscription page was not responsive in the way I orginally intended.
+- Images on the opportunity page were not responsive.
+- The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.
 
-### Deployment
+Validation testing
+
+## Deployment
 
 **How was this site deployed?**
 
@@ -220,43 +253,45 @@ Click the "Code" button to the right of the screen, click HTTPs and copy the lin
 Open a GitBash terminal and navigate to the directory where you want to locate the clone
 On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-
-
-## Testing
-
-There were some bugs that were highlighted during testing phase.
-
-- iframes overflowed the container.
-- Form on the subscription page was not responsive in the way I orginally intended.
-- Images on the opportunity page were not responsive.
-- The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.
-
-Validation testing
-
-
-
-
-
 ## Credits
-
-
 
 ### Code Used
 
-Opportunities page
+Bootstrap
 
-Map - Google Maps API - https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript
-Image Zoom test - w3schools https://www.w3schools.com/howto/howto_js_image_zoom.asp
+Code Institute 
 
+Javascript
 
+All javascript used on the site is within the opportnunities page and is listed below. I didn't intend on using Javascipt initially, However, as the projkect progressed, i felt it was a necessary addition to improve user experience on the site.
 
+Map - Google Maps API - https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript  
+ 
+Image Zoom test - w3schools https://www.w3schools.com/howto/howto_js_image_zoom.asp  
 
+'Reveal the dog' button - JavaScript HTML DOM EventListener https://www.w3schools.com/js/js_htmldom_eventlistener.asp  
+
+CSS
+
+Hero Image - Fade In - https://www.w3schools.com/w3css/w3css_animate.asp  
+
+Rotating Earth - The rotate method - https://www.w3schools.com/css/css3_2dtransforms.asp  
 
 ### Content
 
+Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are ficticious, however there are elements of truth in capabilities.
 
 
 ###  Media
+
+ia-analysis- by CESAR Henriqwue Noda (Shutterstock)
+Road - by user 'patsch.1' (Shutterstock)
+Marina - by user 'Meaning' (Shutterstock)
+Arab Spring - by user 'akramalrasny' (Shutterstock)
+Social Media - by user 'rvlsoft' (Shutterstock)
+Map of Europe - by user 'Meda01' (Shutterstock)
+Spinning Earth - by 'Yellow duck' (Adobe Stock)
+Hero-image - by 'Placidplace' (Pixab
 
 
   
