@@ -70,7 +70,7 @@ As a journalist investigating a story, I want to learn about INTOL's capabilitie
 
 The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS:
 
-![alt text](README-images/color-wheel.png "Optional title")
+![Image of color pallete in the project](README-images/color-wheel.png "Optional title")
 
 The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. In future updates, we may consider adding a bright color accent to the color scheme to create more visual interest.
 
@@ -159,6 +159,7 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 Historic archive of products, future capabilities will have their own section.  
 Light and dark versions of the site.  
+Adding a bright color accent.  
 
 
 ### Accessibility
@@ -167,7 +168,12 @@ Light and dark versions of the site.
 
 ### Languages Used
 
-HTML, CSS and Javascript.
+HTML5  
+Used for creation of markup for the website content.  
+CSS
+Cascading style sheets used to style the inidividual pages.  
+Javascript  
+Scripting language used to make aspects of the site interactive.
 
 ### Frameworks, Libraries & Programs Used
 
@@ -216,8 +222,6 @@ PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthou
 
 ## Testing
 
-
-
 There were some bugs that were highlighted during testing phase.
 
 - iframes overflowed the container.
@@ -253,9 +257,9 @@ On the command line, type "git clone" then paste in the copied url and press the
 
 ### Code Used
 
-Bootstrap
+Bootstrap v5.3.0
 
-Code Institute 
+Code Institute training material
 
 **Javascript**  
 
@@ -280,7 +284,7 @@ Other than the code previously mentioned in the code used section, I was respons
 
 ###  Media
 
-ia-analysis- by CESAR Henriqwue Noda (Shutterstock)  
+ia-analysis - by CESAR Henriqwue Noda (Shutterstock)  
 Road - by user 'patsch.1' (Shutterstock)  
 Marina - by user 'Meaning' (Shutterstock)  
 Arab Spring - by user 'akramalrasny' (Shutterstock)  
@@ -293,7 +297,7 @@ Hero-image - by 'Placidplace' (Pixabay)
   
 ###  Acknowledgments
 
-Code Institute
+Code Institute  
 Mentor
 
 

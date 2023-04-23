@@ -64,6 +64,8 @@
     box-sizing: border-box;
     display: inline-block;
     margin-bottom: 10px;
+    padding: 30px 0;
+    
   }
 
   .statement-image {
@@ -258,7 +260,7 @@
  .page-title {
    text-align: center;
    padding-bottom: 10px;
-   margin: 50px;
+   margin: 10px;
  }
 
  #about-us-summary {
@@ -315,7 +317,7 @@
 
  .right-hand-text,
 .left-hand-text {
-    padding-top: 28px;
+    padding-top: 140px;
 }
 
 .discipline-headings {
@@ -329,20 +331,16 @@
    line-height: 2;
    background-color: var(--midgrey);
    border-radius: 10px;
-   padding: 5px;
-}
-
-.set-width {
-   max-width: 400px;
+   padding-top: 10px;
 }
 
 #future-capabilities {
-   margin-top: 30px;
-   margin-bottom: 30px;
+   padding-top: 30px;
+   padding-bottom: 30px;
  }
 
  .future-capability-subheading {
-  margin-bottom: 20px;
+  padding-bottom: 20px;
  }
 
  /*--images--*/
@@ -350,14 +348,14 @@
  .capabilities-img {
    border-radius: 50%;
    border: 5px solid var(--offwhite);
-   width: 90%;
-   height: 90%;
+   width: 100%;
+   height: auto;
  }
 
  img.large-image {
-   width: 308px;
-   height: 308px;
- }
+  width: 308px;
+  height: 308px;
+}
 
  /*--subscribe--*/
  
@@ -641,7 +639,7 @@
   }
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1350px) {
   .img-zoom-container, .img-zoom-text {
     display: none;
   }
@@ -652,5 +650,19 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .right-hand-text,
+  .left-hand-text {
+    padding-top: 14px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .right-hand-text,
+  .left-hand-text {
+    padding-top: 140px;
   }
 }
