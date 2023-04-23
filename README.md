@@ -101,42 +101,30 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 ### General features on each page
 
 **Navigation bar:**  
-**Feature 01** The top navigation bar makes it easy for users to find their way around the website and access other pages. 
+**Feature 01** The top navigation bar makes it easy for users to find their way around the website and access other pages. On a smaller screen size, there will be a collapsible navbar. The active page should appear bold and on hover, the text should be underlined, this applies to both desktop and collapsible nav bars.    
 
 ![alt text](README-images/navbar-readme.png "Optional title")
 
 **Social media links:**  
-**Feature 02** The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice.
+**Feature 02** The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice. Each social media site should appear white, on hover, it should turn black and when clicked, should open in a new tab.  
 
 ![alt text](README-images/socials-readme.png "Optional title")
 
 ### General features on individual pages
 
-**Home page**
-**Hero section:**  
+**Hero image:**  
 **Feature 03** The hero section includes an image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.  
-**Feature 04** 'Find out more' button which sits on top of the hero image.
+**Feature 04** 'Find out more' button which sits on top of the hero image. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.  
 
 ![alt text](README-images/hero-image-readme.png "Optional title")
 
-**Statement section:**  
-**Feature 05** The statement section provides a brief overview of INTOL's capabilities and values, and includes images that showcase the types of intelligence solutions provided by the company.
-Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus.
+**Spinning earth animation:**    
+**Feature 05** Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus. There is no user interaction but the image should continue to spin and will also be present on mobile devices and smaller screens.  
 
 ![alt text](README-images/spinning-earth-readme.png "Optional title")
 
 **Capabilities button:**  
-**Feature 06** The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions.
-
-![alt text](README-images/home-page-summary-readme.png "Optional title")
-
-**About us**  
-**Statement section:**  
- The statement section provides a brief introduction to INTOL and its intelligence capabilities.
-"INTOL at a glance" section: This section provides a brief overview of INTOL's key capabilities, including global satellite coverage, a wide range of assets, an archive of historic products, and 20+ years of military experience.
-"Our Selection Process" section: This section explains INTOL's selection process for analysts, including assessment of qualifications, experience, and aptitude.
-"Our Training" section: This section describes the training process for analysts at INTOL, including basic intelligence principle training, capability training, and on-the-job training.
-"Our Sources" section: This section explains the sources INTOL uses for training and operational purposes, including Janes and Maxar.
+**Feature 06** The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.
 
 **Hyperlink to Janes and Maxar**  
 **Feature 07** Hyperlinks to [Janes](https://www.janes.com/defence-and-security-advisory/janes-osint-training) and [Maxar](https://www.maxar.com/) which are both in bold and are underlined when hovered over with the cursor.
@@ -144,27 +132,7 @@ Earth sphere animation: A standout design element on the page is the spinning Ea
 **iframes**  
 **Feature 08** Janes and Maxar iframes that should open in a new link when clicked, a white border should also appear when hovered over by the cursor.  
 
-I purposely chose to keep this page is simplistic as possible, inlcluding Fontawesome icons to make the site more visually appealing.  
-
-![alt text](README-images/about-us-readme.png "Optional title")
-
-The purpose of this page was to be more informative than visually appealing, I appreciate that this could be achieved by using images/other methods, however i didn't want my site to be made up solely by CSS and images and felt that it was necessary to include text on the 'About us' Page.
-
-**Capabilities**  
-The capabilities page contains information about INTOL's three main intelligence capabilities: IMINT, GEOINT, and OSINT.
-Each capability is presented in a section with an image and a description of the technique used and the products produced.
-The page also includes a section on future capabilities, with information about INTOL's plans to offer cyber, financial, and human intelligence services.
-The sections on the page alternate the side of the page they appear on for an appealing flow, I went with a symbolic approach with the spherical capability images, i wanted them to appear as though they were viewed through a spy glass in keeping with the intelligence theme.
-
-![alt text](README-images/capability-readme.png "Optional title")
-
-**Opportunities**  
-Title: The title of the page is "Opportunities". It appears at the top of the page and provides users with a clear idea of what the page is about.
-Information about Recruitment: The page provides information about a recruitment drive for an office setting up in London, as well as IMINT positions that will be opening up in Q3 2023.
-Image Zoom: The page features an image zoom function that allows users to zoom in on an image by hovering their mouse over it. This is achieved through the use of JavaScript.
-Images: The page contains two images, one of a crowd at a sports stadium and another of an IA analysis.
-Test: The page features a test in which users are asked to find a specific object in an image.
-Call-to-action: The page includes a call-to-action button that encourages users to subscribe for more information about job opportunities at INTOL.  
+![alt text](README-images/iframe-readme.png "Optional title")
 
 **Feature 09** Event listener 'reveal the dog' button. A message should appear below the button informing users that there isn't actually a dog in the image. I included this to improve user experience, however, i don't expect users to be best pleased when they realise there isn't actually a dog iin the image.  
 
@@ -181,12 +149,7 @@ Call-to-action: The page includes a call-to-action button that encourages users 
 
 **Feature 12** Subscribe button. There should be a subscribe button that is black with a white border and white text.On hover, it should change to a white button with black text and when clicked should take users to the subscribe page. I included this as it helps with the flow of the page, i have given users a taste of what an imagery intelligence job might entail, i have notified them of a recruitment fair in a certain location and by using the subscribe button underneath, i am giving users the opportunity to move to the subscribe page with ease.  
 
-Overall, the page is designed to provide users with information about job opportunities at INTOL, as well as to encourage them to subscribe for more information. It makes use of various design features, such as a navigation bar, images, and a call-to-action button, to engage users and make it easy for them to find the information they need.  
-
-**Subscribe**  
-Form section: The page contains a form that users can fill out to subscribe to the INTOL newsletter and receive more information about the company. The form includes fields for the user's first and last name, email address, and comments. There is also a section for users to select their intelligence preference (OSINT, IMINT, GEOINT, or All) using checkboxes.
-Subscribe button: At the bottom of the form, there is a button that users can click to submit their subscription information.
-Text section: The page also includes a text section that provides information about the cost of INTOL's services and the benefits of subscribing for more information.  
+![alt text](README-images/subscribe-button-readme.png "Optional title") 
 
 **Feature 13** Subscription form. I have included this form to give users the opportunity to subscribe to INTOLs services and give them an option to select what intelligence discipline users may be interested in. Users may be interested in services provided or they may be interested in career opportunities, in any case, the comments box gives users the opportunity to outline their exact requirement. The different text boxes should transform to a black outline on hover and there should be a placeholder 'description of requirement' in the comments box. There should be 3 radio checkboxes that can be checked. The subscribe button should be black with a white border and white text, on hover, the button should turn white with black text, like other buttons on the site. Subscribing in its current state will result in a new tab showing the results that have been typed by https://formdump.codeinstitute.net/.     
 
@@ -194,7 +157,9 @@ Text section: The page also includes a text section that provides information ab
 
 ### Future Implementations
 
-Historic archive of products, future capabilities will have their own section.
+Historic archive of products, future capabilities will have their own section.  
+Light and dark versions of the site.  
+
 
 ### Accessibility
 
@@ -250,6 +215,8 @@ PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthou
 
 
 ## Testing
+
+
 
 There were some bugs that were highlighted during testing phase.
 
