@@ -278,14 +278,14 @@
  
  .janes-link,
 .maxar-link {
-  color: var(--white)
+  color: var(--white);
   font-weight: bold;
   text-decoration: none;
 }
 
 .janes-link:hover,
 .maxar-link:hover {
-  color: var(--white)
+  color: var(--white);
   text-decoration: underline;
 }
 

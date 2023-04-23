@@ -180,43 +180,43 @@ HTML, CSS and Javascript.
 
 ### Frameworks, Libraries & Programs Used
 
-Bootstrap 5.3.0
+**Bootstrap 5.3.0  
 Bootstrap was used to assist with the responsiveness and styling of the website.
 
-jQuery:
+**jQuery  
 jQuery came with Bootstrap to make the navbar responsive.
 
-Google fonts
+**[Google Fonts](https://fonts.google.com/)  
 Google fonts were used to import Lato and Roboto fonts which is used on all pages throughout the project.
 
-Font Awesome 6.3.0
+**[Font awesome](https://fontawesome.com/)  
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-Github
+**[Github](https://github.com/)   
 GitHub is used to store the projects code after being pushed from Git.
 
-Drawio
+**[Drawio] (https://draw.io)   
 Drawio was used to create the wireframes during the design process.
 
-Visual Studio Code
+**Visual Studio Code  
 Visual Studio Code was use to create files pages and where i produced the code for the project.
 
-Compressor.io 
+**[Compressor.io] (https://compressor.io)  
 Compressor.io was used to reduce the size of images, this was recommended during validation.
 
-Canva
+**[Canva] (https://www.canva.com/en_gb/)  
 Canva design tool was used to increase the exposure on my hero image to ensure it was consistent with the theme of the site. 
 
-Google Chrome Dev Tools
+**[GoogleChromeDevTools] (https://developer.chrome.com/docs/devtools/)    
 Google Chrome Dev Tools was used during the testing phase to test the responsiveness of the site and to check for any bugs.
 
-Shutterstock, Adobe Stock and Pixabay
+**[Shutterstock] (https://www.shutterstock.com/), [AdobeStock] (https://stock.adobe.com/uk/) and [Pixabay] (https://pixabay.com/)  
 These sites were used to source the imagery for my site.
 
-W3schools
+**[W3schools] (https://www.w3schools.com/)    
 W3schools was used to sourece javascript for my site and for certain CSS aspects (mentioned below).
 
-PageSpeed Insights
+**[PageSpeed Insights] (https://pagespeed.web.dev/)   
 PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.
 
 
@@ -265,17 +265,17 @@ Javascript
 
 All javascript used on the site is within the opportnunities page and is listed below. I didn't intend on using Javascipt initially, However, as the projkect progressed, i felt it was a necessary addition to improve user experience on the site.
 
-Map - Google Maps API - https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript  
+[Map - Google Maps API] - https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript  
  
-Image Zoom test - w3schools https://www.w3schools.com/howto/howto_js_image_zoom.asp  
+[Image Zoom test] https://www.w3schools.com/howto/howto_js_image_zoom.asp  
 
-'Reveal the dog' button - JavaScript HTML DOM EventListener https://www.w3schools.com/js/js_htmldom_eventlistener.asp  
+['Reveal the dog' button - JavaScript HTML DOM EventListener] https://www.w3schools.com/js/js_htmldom_eventlistener.asp  
 
 CSS
 
-Hero Image - Fade In - https://www.w3schools.com/w3css/w3css_animate.asp  
+[Hero Image - Fade In] - https://www.w3schools.com/w3css/w3css_animate.asp  
 
-Rotating Earth - The rotate method - https://www.w3schools.com/css/css3_2dtransforms.asp  
+[Rotating Earth - The rotate method] - https://www.w3schools.com/css/css3_2dtransforms.asp  
 
 ### Content
 
@@ -284,14 +284,14 @@ Other than the code previously mentioned in the code used section, I was respons
 
 ###  Media
 
-ia-analysis- by CESAR Henriqwue Noda (Shutterstock)
-Road - by user 'patsch.1' (Shutterstock)
-Marina - by user 'Meaning' (Shutterstock)
-Arab Spring - by user 'akramalrasny' (Shutterstock)
-Social Media - by user 'rvlsoft' (Shutterstock)
-Map of Europe - by user 'Meda01' (Shutterstock)
-Spinning Earth - by 'Yellow duck' (Adobe Stock)
-Hero-image - by 'Placidplace' (Pixab
+ia-analysis- by CESAR Henriqwue Noda (Shutterstock)  
+Road - by user 'patsch.1' (Shutterstock)  
+Marina - by user 'Meaning' (Shutterstock)  
+Arab Spring - by user 'akramalrasny' (Shutterstock)  
+Social Media - by user 'rvlsoft' (Shutterstock)  
+Map of Europe - by user 'Meda01' (Shutterstock)  
+Spinning Earth - by 'Yellow duck' (Adobe Stock)  
+Hero-image - by 'Placidplace' (Pixabay)
 
 
   
