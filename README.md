@@ -231,15 +231,6 @@ PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthou
 
 Testing process can be found [here](https://github.com/ojalaw/INTOL-MP1/blob/main/TESTING.md)
 
-There were some bugs that were highlighted during testing phase.
-
-- iframes overflowed the container.
-- Form on the subscription page was not responsive in the way I orginally intended.
-- Images on the opportunity page were not responsive.
-- The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.
-
-Validation testing
-
 ## Deployment
 
 **How was this site deployed?**

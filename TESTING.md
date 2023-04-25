@@ -17,8 +17,9 @@ This site has been tested using the following testing procedures
 
 ## Code Validation  
 
-Closing div tags removed on first validation testing. The tags has been left in the code by mistake and copied across to all pages early on in the projkect.  
-unnecessary / in img tags also removed in initial validator testing.
+The site was run through noth wc3 and wc3 css validators showing no errors
+
+pics here
 
 ## Lighthouse Testing  
 
@@ -52,6 +53,9 @@ Insert desktop/mobile score
 Tested on Google Chrome Version 112.0.5615.138 (Official Build) (64-bit),  Microsoft Edge Version 112.0.1722.58 (Official build) (64-bit) and firefox Version 112.0.1 (64-bit)
 
 ## Manual Testing 
+
+
+Different features that were tested here.
 
 
 
