@@ -112,18 +112,19 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 ### General features on individual pages
 
-**Hero image:**  
-**Feature 03** The hero section includes an image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.  
+**Hero image**  
+**Feature 03** The hero section includes an image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.
+**Find Out More 'button'**  
 **Feature 04** 'Find out more' button which sits on top of the hero image. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.  
 
 ![alt text](README-images/hero-image-readme.png "Optional title")
 
-**Spinning earth animation:**    
+**Spinning earth animation**    
 **Feature 05** Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus. There is no user interaction but the image should continue to spin and will also be present on mobile devices and smaller screens.  
 
 ![alt text](README-images/spinning-earth-readme.png "Optional title")
 
-**Capabilities button:**  
+**Capabilities button**  
 **Feature 06** The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.
 
 **Hyperlink to Janes and Maxar**  
@@ -134,24 +135,30 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 ![alt text](README-images/iframe-readme.png "Optional title")
 
-**Feature 09** Event listener 'reveal the dog' button. A message should appear below the button informing users that there isn't actually a dog in the image. I included this to improve user experience, however, i don't expect users to be best pleased when they realise there isn't actually a dog iin the image.  
+**Event listener 'reveal the dog' button**
+**Feature 09** A message should appear below the button informing users that there isn't actually a dog in the image. I included this to improve user experience, however, i don't expect users to be best pleased when they realise there isn't actually a dog iin the image.  
 
 
 ![alt text](README-images/event-listener-readme.png "Optional title")  
 
-**Feature 10** Image zoom test. There should be two images, one above the other. The image at the top should be a zoomed out image of an urban area, the image below it should be a zoomed in version of that image, the zoomed area should correspond to whatever area the cursor is hovering over on the top image. Hence providing an image zoom test. This will not display on devices below 1200px wide.  I included this feature as i felt it linked in with the opportunity theme and can give users a taste of what being an IMINT analyst might be like, i believe this improves user experience.  
+**Image zoom test**
+**Feature 10**  There should be two images, one above the other. The image at the top should be a zoomed out image of an urban area, the image below it should be a zoomed in version of that image, the zoomed area should correspond to whatever area the cursor is hovering over on the top image. Hence providing an image zoom test. This will not display on devices below 1200px wide.  I included this feature as i felt it linked in with the opportunity theme and can give users a taste of what being an IMINT analyst might be like, i believe this improves user experience.  
 
 ![alt text](README-images/img-zoom-readme.png "Optional title")  
 
-**Feature 11** Google Maps API. There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to fullscreen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
+**Google Maps API**
+**Feature 11**  There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to fullscreen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
 
 ![alt text](README-images/google-maps-api-readme.png "Optional title")  
 
-**Feature 12** Subscribe button. There should be a subscribe button that is black with a white border and white text.On hover, it should change to a white button with black text and when clicked should take users to the subscribe page. I included this as it helps with the flow of the page, i have given users a taste of what an imagery intelligence job might entail, i have notified them of a recruitment fair in a certain location and by using the subscribe button underneath, i am giving users the opportunity to move to the subscribe page with ease.  
+
+**Subscribe button**
+**Feature 12** There should be a subscribe button that is black with a white border and white text.On hover, it should change to a white button with black text and when clicked should take users to the subscribe page. I included this as it helps with the flow of the page, i have given users a taste of what an imagery intelligence job might entail, i have notified them of a recruitment fair in a certain location and by using the subscribe button underneath, i am giving users the opportunity to move to the subscribe page with ease.  
 
 ![alt text](README-images/subscribe-button-readme.png "Optional title") 
 
-**Feature 13** Subscription form. I have included this form to give users the opportunity to subscribe to INTOLs services and give them an option to select what intelligence discipline users may be interested in. Users may be interested in services provided or they may be interested in career opportunities, in any case, the comments box gives users the opportunity to outline their exact requirement. The different text boxes should transform to a black outline on hover and there should be a placeholder 'description of requirement' in the comments box. There should be 3 radio checkboxes that can be checked. The subscribe button should be black with a white border and white text, on hover, the button should turn white with black text, like other buttons on the site. Subscribing in its current state will result in a new tab showing the results that have been typed by https://formdump.codeinstitute.net/.     
+**Subscription form**
+**Feature 13**  I have included this form to give users the opportunity to subscribe to INTOLs services and give them an option to select what intelligence discipline users may be interested in. Users may be interested in services provided or they may be interested in career opportunities, in any case, the comments box gives users the opportunity to outline their exact requirement. The different text boxes should transform to a black outline on hover and there should be a placeholder 'description of requirement' in the comments box. There should be 3 radio checkboxes that can be checked. The subscribe button should be black with a white border and white text, on hover, the button should turn white with black text, like other buttons on the site. Subscribing in its current state will result in a new tab showing the results that have been typed by https://formdump.codeinstitute.net/.     
 
 ![alt text](README-images/subscribe-form-readme.png "Optional title")   
 
@@ -168,22 +175,22 @@ Adding a bright color accent.
 
 ### Languages Used
 
-HTML5  
+**HTML5**  
 Used for creation of markup for the website content.  
-CSS
+**CSS**  
 Cascading style sheets used to style the inidividual pages.  
-Javascript  
+**Javascript**  
 Scripting language used to make aspects of the site interactive.
 
 ### Frameworks, Libraries & Programs Used
 
-[Bootstrap 5.3.0](https://getbootstrap.com/)
+[Bootstrap 5.3.0](https://getbootstrap.com/)  
 Bootstrap was used to assist with the responsiveness and styling of the website.
 
 [jQuery](https://jquery.com/)  
 jQuery came with Bootstrap to make the navbar responsive.
 
-[CDN jsdelivr](https://www.jsdelivr.com/)
+[CDN jsdelivr](https://www.jsdelivr.com/)  
 CDN jsdeliver was used to serve static assets bootstrap and jquery to improve peformance and reliability.
 
 [Google Fonts](https://fonts.google.com/)  
@@ -237,10 +244,10 @@ Validation testing
 
 The website was initially deployed on GitHub pages.
 
-**Deploying on GitHub Pages**
+**Deploying on GitHub Pages**  
 To deploy the website on GitHub Pages, the following steps were followed:
 
-**Create a new repository on GitHub**
+**Create a new repository on GitHub**  
 Add the necessary files to the repository
 Go to the settings page of the repository, located on the menu bar towards the top of the page, scroll down to the GitHub Pages section which is located at the bottom of the 'Code and automation' sub-section.
 Select the main branch and the root folder, then click save
