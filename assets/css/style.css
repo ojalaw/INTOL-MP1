@@ -180,7 +180,6 @@
    background-size: cover;
    animation: hero-fade-in 10s;
    margin-top: 0px;
-   border 3px var(--offwhite);
 }
 
 @keyframes hero-fade-in {
@@ -273,7 +272,6 @@
    line-height: 2;
     background-color: var(--midgrey);
     border-radius: 10px;
-    padding: px;
  }
  
  .janes-link,
@@ -455,7 +453,7 @@
 .int-preference-section label,
 .int-preference-section input[type="checkbox"] {
  display: inline-block;
- margin-right: 10px; /
+ margin-right: 10px;
 }
 
 .form-section {
@@ -464,7 +462,7 @@
  }
 
 ::placeholder {
-  font-weight: semi-bold;
+  font-weight: bold;
   color: var(--white);
 }
 

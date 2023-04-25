@@ -98,14 +98,14 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 ## Features
 
-### General features on each page
+### General features on every page
 
 **Navigation bar:**  
 **Feature 01** The top navigation bar makes it easy for users to find their way around the website and access other pages. On a smaller screen size, there will be a collapsible navbar. The active page should appear bold and on hover, the text should be underlined, this applies to both desktop and collapsible nav bars.    
 
 ![alt text](README-images/navbar-readme.png "Optional title")
 
-**Social media links:**  
+**Social media links**  
 **Feature 02** The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice. Each social media site should appear white, on hover, it should turn black and when clicked, should open in a new tab.  
 
 ![alt text](README-images/socials-readme.png "Optional title")
@@ -113,8 +113,8 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 ### General features on individual pages
 
 **Hero image**  
-**Feature 03** The hero section includes an image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.
-**Find Out More 'button'**  
+**Feature 03** The hero section includes an image and text that welcomes visitors to the website. The hero image is designed with a fade-in effect that animates the image's appearance on the page.  
+**Find Out More 'button'**    
 **Feature 04** 'Find out more' button which sits on top of the hero image. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.  
 
 ![alt text](README-images/hero-image-readme.png "Optional title")
@@ -141,23 +141,23 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 
 ![alt text](README-images/event-listener-readme.png "Optional title")  
 
-**Image zoom test**
+**Image zoom test**  
 **Feature 10**  There should be two images, one above the other. The image at the top should be a zoomed out image of an urban area, the image below it should be a zoomed in version of that image, the zoomed area should correspond to whatever area the cursor is hovering over on the top image. Hence providing an image zoom test. This will not display on devices below 1200px wide.  I included this feature as i felt it linked in with the opportunity theme and can give users a taste of what being an IMINT analyst might be like, i believe this improves user experience.  
 
 ![alt text](README-images/img-zoom-readme.png "Optional title")  
 
-**Google Maps API**
+**Google Maps API**  
 **Feature 11**  There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to fullscreen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
 
 ![alt text](README-images/google-maps-api-readme.png "Optional title")  
 
 
-**Subscribe button**
+**Subscribe button**  
 **Feature 12** There should be a subscribe button that is black with a white border and white text.On hover, it should change to a white button with black text and when clicked should take users to the subscribe page. I included this as it helps with the flow of the page, i have given users a taste of what an imagery intelligence job might entail, i have notified them of a recruitment fair in a certain location and by using the subscribe button underneath, i am giving users the opportunity to move to the subscribe page with ease.  
 
 ![alt text](README-images/subscribe-button-readme.png "Optional title") 
 
-**Subscription form**
+**Subscription form**  
 **Feature 13**  I have included this form to give users the opportunity to subscribe to INTOLs services and give them an option to select what intelligence discipline users may be interested in. Users may be interested in services provided or they may be interested in career opportunities, in any case, the comments box gives users the opportunity to outline their exact requirement. The different text boxes should transform to a black outline on hover and there should be a placeholder 'description of requirement' in the comments box. There should be 3 radio checkboxes that can be checked. The subscribe button should be black with a white border and white text, on hover, the button should turn white with black text, like other buttons on the site. Subscribing in its current state will result in a new tab showing the results that have been typed by https://formdump.codeinstitute.net/.     
 
 ![alt text](README-images/subscribe-form-readme.png "Optional title")   
@@ -227,7 +227,9 @@ W3schools was used to sourece javascript for my site and for certain CSS aspects
 PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.
 
 
-## Testing
+## Testing 
+
+Testing process can be found [here](https://github.com/ojalaw/INTOL-MP1/blob/main/TESTING.md)
 
 There were some bugs that were highlighted during testing phase.
 
