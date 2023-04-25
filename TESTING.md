@@ -2,6 +2,8 @@
 
 ## Contents
 
+This site has been tested using the following testing procedures
+
 * [Code Validation](#Code-validation)  
 
 * [Lighthouse Testing](#Lighthouse-Testing)
@@ -47,7 +49,7 @@ Insert desktop/mobile score
 
 ## Browser Compatibility 
 
-Tested on Google Chrome and Microsoft Edge, firefox
+Tested on Google Chrome Version 112.0.5615.138 (Official Build) (64-bit),  Microsoft Edge Version 112.0.1722.58 (Official build) (64-bit) and firefox Version 112.0.1 (64-bit)
 
 ## Manual Testing 
 
