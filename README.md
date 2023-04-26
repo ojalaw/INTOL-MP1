@@ -169,7 +169,9 @@ Light and dark versions of the site.
 Adding a bright color accent.  
 
 
-### Accessibility
+### Accessibility  
+
+Include accessibility text here
 
 ## Technologies Used
 

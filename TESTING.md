@@ -19,11 +19,23 @@ This site has been tested using the following testing procedures
 
 The site was run through noth wc3 and wc3 css validators showing no errors
 
-pics here
+![alt text](README-images/validator-testing-readme.png "Optional title")  
+
+![alt text](README-images/css-validator-testing-readme.png "Optional title")  
+
+
 
 ## Lighthouse Testing  
 
-I used lighthouse testing via Google Chrome Developer Tools and PageSpeed Insights.
+I used lighthouse testing via Google Chrome Developer Tools and PageSpeed Insights.  
+
+The site is tested against the following criteria;  
+
+Performance  
+Accessibility  
+Best Practices  
+SEO  
+
 
 First lighthouse testing highlighted issues surrounding image size, they were subsequently compressed.
 
@@ -54,10 +66,30 @@ Tested on Google Chrome Version 112.0.5615.138 (Official Build) (64-bit),  Micro
 
 ## Manual Testing 
 
+Home page  
 
-Different features that were tested here.
+Nav bar desktop  
+Nav bar mobile  
+Find Out More button  
+Spinning globe on all devices  
+view capabilities button  
+Social media links in footer  
 
+About us  
 
+External links to Janes and Maxar
+iframes
+
+Capabilities  
+Reveal the dog button  
+img-zoom  
+Google maps API  
+Subscribe button  
+
+Form  
+Form boxs  
+checkboxes  
+subscribe button  
 
 ## Bug Reporting
 
