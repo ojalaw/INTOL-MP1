@@ -17,11 +17,15 @@ This site has been tested using the following testing procedures
 
 ## Code Validation  
 
-The site was run through noth wc3 and wc3 css validators showing no errors
+The site was run through noth wc3 and wc3 css validators.
 
 ![alt text](README-images/validator-testing-readme.png "Optional title")  
 
+The results above apply no all pages, no errors were identified in the HTML files.  
+
 ![alt text](README-images/css-validator-testing-readme.png "Optional title")  
+
+The results above apply no all pages, no errors were identified in the CSS file.   
 
 
 
@@ -61,8 +65,14 @@ Insert desktop/mobile score
 
 
 ## Browser Compatibility 
-
+  
+**Desktop**
+  
 Tested on Google Chrome Version 112.0.5615.138 (Official Build) (64-bit),  Microsoft Edge Version 112.0.1722.58 (Official build) (64-bit) and firefox Version 112.0.1 (64-bit)
+  
+**Mobile**
+  
+Tested on iphone 12 (iOS 16.3.1), iphone 13 (iOS 16.0) and 
 
 ## Manual Testing 
 
@@ -89,7 +99,15 @@ Subscribe button
 Form  
 Form boxs  
 checkboxes  
-subscribe button  
+subscribe button 
+
+Functionality  
+
+Usability  
+
+Responsiveness  
+
+
 
 ## Bug Reporting
 

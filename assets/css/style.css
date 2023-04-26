@@ -33,8 +33,6 @@
    margin-bottom:20px;
  }
 
-
-
   /*--home-page--*/
 
 .intol-statement {
@@ -44,7 +42,7 @@
  }
 
  .key-heading {
-   padding: 20px;
+   padding: 20px 0 20px 0;
    background-color: var(--midgrey);
    border-radius: 10px;
    text-align: center;
@@ -470,7 +468,7 @@
 /*--opportunities--*/
 
 .crowd-test {
-  padding-left: 100px;
+  padding-left: 50px;
   padding-right:50px;
   border-radius: 10px;
   max-width: 100%;
@@ -579,7 +577,7 @@
      margin: 0;
      width: 100vw;
      left: 0;
-     padding: 30px 5%;
+     padding: 30px;
    }
  }
 
@@ -640,7 +638,7 @@
   }
 }
 
-@media only screen and (max-width: 1201px) {
+@media only screen and (max-width: 1199px) {
   .img-zoom-container, .img-zoom-text {
     display: none;
   }
