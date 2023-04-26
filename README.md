@@ -87,7 +87,7 @@ Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay.
 
 ### Wireframes
 
-![INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Optional title")
+[INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Optional title")
 
 ### Future updates
 As the INTOL website continues to evolve, we will continue to refine and improve the design based on feedback from our users and our own observations. We are committed to creating a website that is not only visually appealing but also easy to use and navigate, and we look forward to continuing to develop and improve our design over time.

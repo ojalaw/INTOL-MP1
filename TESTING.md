@@ -42,24 +42,28 @@ SEO
 
 **Index**  
 
-Index desktop lighthouse score [here](README-images/Index-desktop-lighthouse.png "Optional title")  
-Index mobile lighthouse score [here](README-images/Index-mobile-lighthouse.png "Optional title")  
+- Index desktop lighthouse score [here](README-images/Index-desktop-lighthouse.png "Optional title")  
+- Index mobile lighthouse score [here](README-images/Index-mobile-lighthouse.png "Optional title")  
 
 **About us**  
 
-Insert desktop/mobile score
+ - About us desktop lighthouse score [here](README-images/about-us-desktop-lighthouse.png "Optional title")  
+ - About us mobile lighthouse score [here](README-images/about-us-mobile-lighthouse.png "Optional title")  
 
 **Capabilities**  
 
-Insert desktop/mobile score
+- Capabilities desktop lighthouse score [here](README-images/capabilities-desktop-lighthouse.png "Optional title")  
+- Capabilities mobile lighthouse score [here](README-images/capabilities-mobile-lighthouse.png "Optional title")  
 
 **Opportunities**  
 
-Insert desktop/mobile score
+- Opportunities desktop lighthouse score [here](README-images/opportunities-desktop-lighthouse.png "Optional title")  
+- Opportunities mobile lighthouse score [here](README-images/opportunities-mobile-lighthouse.png "Optional title")  
 
 **Subscribe**  
 
-Insert desktop/mobile score
+- Subscribe desktop lighthouse score [here](README-images/subscribe-desktop-lighthouse.png "Optional title")  
+- Subscribe mobile lighthouse score [here](README-images/subscribe-mobile-lighthouse.png "Optional title")  
 
 
 ## Browser Compatibility 
@@ -74,7 +78,7 @@ Tested on iphone 12 (iOS 16.3.1), iphone 13 (iOS 16.0) and
 
 ## Manual Testing  
 
-During the manual testing, I tested whether the sites functionality, usability and responsiveness.
+During the manual testing, I tested the sites functionality, usability and responsiveness.
 
 **Functionality**
 
