@@ -242,17 +242,28 @@ The website was initially deployed on GitHub pages.
 To deploy the website on GitHub Pages, the following steps were followed:
 
 **Create a new repository on GitHub**  
-Add the necessary files to the repository
-Go to the settings page of the repository, located on the menu bar towards the top of the page, scroll down to the GitHub Pages section which is located at the bottom of the 'Code and automation' sub-section.
-Select the main branch and the root folder, then click save
-The website will now be live at the URL provided in the GitHub Pages section
+- Add the necessary files to the repository.
+- Go to the settings page of the repository, located on the menu bar towards the top of the page, scroll down to the GitHub Pages section which is located at the bottom of the 'Code and automation' sub-section.
+- Select the main branch and the root folder, then click save.
+- The website will now be live at the URL provided in the GitHub Pages section.
 
 **How to clone the repository**
 
-Go to the https://github.com/ojalaw/INTOL-MP1 repository on GitHub
-Click the "Code" button to the right of the screen, click HTTPs and copy the link there
-Open a GitBash terminal and navigate to the directory where you want to locate the clone
-On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+- Go to the https://github.com/ojalaw/INTOL-MP1 repository on GitHub.
+- Click the "Code" button to the right of the screen, click HTTPs and copy the link there.
+- Open a GitBash terminal and navigate to the directory where you want to locate the clone.
+- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process.  
+
+**How to Fork the repository**  
+
+- Go to the https://github.com/ojalaw/INTOL-MP1 repository on GitHub.
+- Click on the 'Fork' option towards the top left of the page.  
+- Click the dropdown button and click 'create a new fork'.  
+- This will bring up a page with details of the respository, fill in boxes as required.
+- Click 'create fork'.  
+
+Forking this repository will allow changes to be made without affecting the original repository.
+
 
 ## Credits
 
@@ -287,9 +298,9 @@ Other than the code previously mentioned in the code used section, I was respons
 
 ia-analysis - by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
 Road - by user [patsch.1](https://www.shutterstock.com/g/patsch1) [Shutterstock](https://www.shutterstock.com/)  
-Marina - by user [Meaning](https://www.shutterstock.com/g/meaning) [Shutterstock](https://www.shutterstock.com/) 
-Arab Spring - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni) [Shutterstock](https://www.shutterstock.com/) 
-Social Media - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/) 
+Marina - by user [Meaning](https://www.shutterstock.com/g/meaning) [Shutterstock](https://www.shutterstock.com/)  
+Arab Spring - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni) [Shutterstock](https://www.shutterstock.com/)  
+Social Media - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/)  
 Map of Europe - by user [Meda01](https://www.shutterstock.com/g/meda01) [Shutterstock](https://www.shutterstock.com/)   
 Spinning Earth - by [Yellow duck](https://stock.adobe.com/uk/contributor/210464354/yellow-duck?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
 Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)
