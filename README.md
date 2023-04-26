@@ -303,7 +303,7 @@ Arab Spring - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni
 Social Media - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/)  
 Map of Europe - by user [Meda01](https://www.shutterstock.com/g/meda01) [Shutterstock](https://www.shutterstock.com/)   
 Spinning Earth - by [Yellow duck](https://stock.adobe.com/uk/contributor/210464354/yellow-duck?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
-Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)
+Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)  
 Aerial -  by [Yuri-arcurs](https://stock.adobe.com/uk/contributor/210716081/yuri-arcurs-peopleimages-com?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
 ia-analysis -  by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
 crowd -  by [keithJJ](https://pixabay.com/users/keithjj-2328014/) [Pixabay](https://pixabay.com/)  
