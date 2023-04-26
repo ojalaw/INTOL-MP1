@@ -40,12 +40,10 @@ Accessibility
 Best Practices  
 SEO  
 
-
-First lighthouse testing highlighted issues surrounding image size, they were subsequently compressed.
-
 **Index**  
 
-Insert desktop/mobile score
+Index desktop lighthouse score [here](README-images/Index-desktop-lighthouse.png "Optional title")  
+Index mobile lighthouse score [here](README-images/Index-mobile-lighthouse.png "Optional title")  
 
 **About us**  
 
@@ -74,21 +72,29 @@ Tested on Google Chrome Version 112.0.5615.138 (Official Build) (64-bit),  Micro
   
 Tested on iphone 12 (iOS 16.3.1), iphone 13 (iOS 16.0) and 
 
-## Manual Testing 
+## Manual Testing  
+
+During the manual testing, I tested whether the sites functionality, usability and responsiveness.
+
+**Functionality**
 
 Home page  
 
-Nav bar desktop  
+Nav bar desktop 
 Nav bar mobile  
 Find Out More button  
 Spinning globe on all devices  
-view capabilities button  
+View capabilities button  
 Social media links in footer  
+
+All features function as expected.
 
 About us  
 
 External links to Janes and Maxar
-iframes
+iframes  
+
+All features function as expected.  
 
 Capabilities  
 Reveal the dog button  
@@ -96,16 +102,22 @@ img-zoom
 Google maps API  
 Subscribe button  
 
+All features function as expected  .
+
 Form  
-Form boxs  
+Form boxes  
 checkboxes  
-subscribe button 
+subscribe button  
 
-Functionality  
+All features function as expected.
 
-Usability  
+**Usability**  
 
-Responsiveness  
+Some users found the images at the bottom of the page confusing. They were initally set to display a border on hover but there was no option to click on the actual image.
+
+**Responsiveness**  
+
+There were responsive issues on the Opportunities and Subscribe page, the default margin and padding that Bootstrap uses was causing overflow-x. To correct this, I added more bootstrap which removed the margin and padding.
 
 
 
@@ -116,3 +128,7 @@ There were a few bugs discovered during the intial testing. I hadn't tested the 
 - Form on the subscription page was not responsive in the way I orginally intended.  
 - Images on the opportunity page were not responsive.  
 - The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.  
+
+I made the necessary changes by adding Bootstrap and adapting existing CSS to make the site more responsive for all screen sizes.  
+
+

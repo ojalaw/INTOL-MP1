@@ -32,9 +32,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment](#deployment)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
+* [Deployment](#deployment))
 
 * [Testing](#testing)
 
@@ -83,7 +81,7 @@ The layout of the INTOL website is built using the Bootstrap framework, which pr
 
 ### Imagery
 
-I spent a great deal of time when it came to selecting the images for use on the site. I believe that the images chosen are consistent with the general design theme of the site and are all of the highest quality possible. All images have been compressed to speed up processing times, predominantly on mobile devices.
+The images chosen are consistent with the general design theme of the site and are all of the highest quality possible. All images have been compressed to speed up processing times, predominantly on mobile devices.
 
 Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay.
 
@@ -171,7 +169,8 @@ Adding a bright color accent.
 
 ### Accessibility  
 
-Include accessibility text here
+I have used semantic HTML markup to make the website more readable for screen readers and other assistive technologies.  
+I have included alt text descriptions for all images to provide context and information to visually impaired users.  
 
 ## Technologies Used
 
@@ -207,7 +206,7 @@ GitHub is used to store the projects code after being pushed from Git.
 [Drawio](https://draw.io)  
 Drawio was used to create the wireframes during the design process.
 
-Visual Studio Code  
+[Visual Studio Code](https://code.visualstudio.com/download)  
 Visual Studio Code was use to create files pages and where i produced the code for the project.
 
 [Compressor.io](https://compressor.io)  
@@ -281,26 +280,32 @@ All javascript used on the site is within the opportnunities page and is listed 
 
 ### Content
 
-Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are ficticious, however there are elements of truth in capabilities.
+Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are ficticious, however there are elements of truth in capabilities.  
 
 
 ###  Media
 
-ia-analysis - by CESAR Henriqwue Noda (Shutterstock)  
-Road - by user 'patsch.1' (Shutterstock)  
-Marina - by user 'Meaning' (Shutterstock)  
-Arab Spring - by user 'akramalrasny' (Shutterstock)  
-Social Media - by user 'rvlsoft' (Shutterstock)  
-Map of Europe - by user 'Meda01' (Shutterstock)  
-Spinning Earth - by 'Yellow duck' (Adobe Stock)  
-Hero-image - by 'Placidplace' (Pixabay)
+ia-analysis - by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
+Road - by user [patsch.1](https://www.shutterstock.com/g/patsch1) [Shutterstock](https://www.shutterstock.com/)  
+Marina - by user [Meaning](https://www.shutterstock.com/g/meaning) [Shutterstock](https://www.shutterstock.com/) 
+Arab Spring - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni) [Shutterstock](https://www.shutterstock.com/) 
+Social Media - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/) 
+Map of Europe - by user [Meda01](https://www.shutterstock.com/g/meda01) [Shutterstock](https://www.shutterstock.com/)   
+Spinning Earth - by [Yellow duck](https://stock.adobe.com/uk/contributor/210464354/yellow-duck?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
+Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)
+Aerial -  by [Yuri-arcurs](https://stock.adobe.com/uk/contributor/210716081/yuri-arcurs-peopleimages-com?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
+ia-analysis -  by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
+crowd -  by [keithJJ](https://pixabay.com/users/keithjj-2328014/) [Pixabay](https://pixabay.com/)  
+
+
 
 
   
 ###  Acknowledgments
 
-Code Institute  
-Mentor
+Code Institute training material  
+
+Chris Quinn - Mentor  
 
 
 
