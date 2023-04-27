@@ -35,10 +35,10 @@ I used lighthouse testing via Google Chrome Developer Tools and PageSpeed Insigh
 
 The site is tested against the following criteria;  
 
-Performance  
-Accessibility  
-Best Practices  
-SEO  
+- Performance  
+- Accessibility  
+- Best Practices  
+- Search Engine Optimization  
 
 **Index**  
 
@@ -128,7 +128,7 @@ External links to Janes and Maxar
 iframes  
 - iframes change appearance on hover as expected.  
 
-**Opportunities page**
+**Opportunities page**  
 Reveal the dog button  
 - The button changes appearance on hover as expected.  
 - The button revelas a message underneath when clicked as expected.  
@@ -161,11 +161,11 @@ Some users found the images at the bottom of the page confusing. They were inita
 
 The generic bootstrap break points used within this site are;  
 
-Extra small: <576px
-Small: >=576px
-Medium: >=768px
-Large: >=992px
-Extra large: >=1200px  
+- Extra small: <576px  
+- Small: >=576px  
+- Medium: >=768px  
+- Large: >=992px  
+- Extra large: >=1200px    
 
 I also added a media-query at 1200px which effect both the capabilities and opportunities pages. 
 
