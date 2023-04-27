@@ -32,7 +32,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment](#deployment))
+* [Deployment](#deployment)
 
 * [Testing](#testing)
 
@@ -70,29 +70,32 @@ The color scheme of the INTOL website is focused on shades of grey and white, wi
 
 ![Image of color pallete in the project](README-images/color-wheel.png "Optional title")
 
-The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. In future updates, we may consider adding a bright color accent to the color scheme to create more visual interest.
+The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. I've also gone for dark colours as i believe it to be symbolic when presenting intelligence products, intelligence is usually dark in the dark when in a military environment, I have tried to portray it that way by using a dark coloured theme. Using black, greys and white is also an easy way to ensure there were not any contrasting issues throughout the website. In future updates, I may consider adding a bright color accent to the color scheme to create more visual interest.
 
 ### Typography
 
 The INTOL website uses two Google Fonts for typography: Lato and Roboto. Lato is used for headings and titles, while Roboto is used for body text. Both fonts were chosen for their modern look and excellent legibility, which makes reading and navigation on the website easy and comfortable.
 
 ### Layout
-The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout across all pages of the website, which makes navigation and exploration more intuitive for visitors.
+The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout on necessary pages of the website, which makes navigation and exploration more intuitive for visitors.  
+
+### Symbology  
+As I have previously touched on, the colour schem i used was partly due to symbolic purposes. The same can be said for a couple of other design features throughout the site. One example is the hero image on the index page, I used the fade in so that initally it seemed like there was nothing behind the title, gradually it transpired that there was actually a very detailed image of the Earth. Another example is the spping globe that I have used on the Index page, i used this to symbolise the fact that INTOL can provide assistance on a global scale. In addition, The three capability images on the capabilities page are all displayed in the form of a circle, I have displayed them like this so that they appear as though they are being viewed through a spy glass to add to the intelligence feel of the site.
 
 ### Imagery
 
 The images chosen are consistent with the general design theme of the site and are all of the highest quality possible. All images have been compressed to speed up processing times, predominantly on mobile devices.
 
-Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay.
+Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay (More information in the credits).
 
 ### Wireframes
 
-[INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Optional title")
+[INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Link to INTOL wireframe")
 
 ### Future updates
-As the INTOL website continues to evolve, we will continue to refine and improve the design based on feedback from our users and our own observations. We are committed to creating a website that is not only visually appealing but also easy to use and navigate, and we look forward to continuing to develop and improve our design over time.
+As the INTOL website continues to evolve, I will continue to refine and improve the design based on feedback from our users and our own observations. I am committed to creating a website that is not only visually appealing but also easy to use and navigate, and I look forward to continuing to develop and improve our design over time.  
 
-Overall, the design of the INTOL website is clean, modern, and easy to use. We believe that our color scheme, typography, layout, and other visual elements help to communicate the values and capabilities of INTOL in a clear and compelling way, and we look forward to continuing to refine and improve our design in the future.
+Overall, the design of the INTOL website is clean, modern, and easy to use. I believe that our color scheme, typography, layout, and other visual elements help to communicate the values and capabilities of INTOL in a clear and compelling way, and I look forward to continuing to refine and improve the design in the future.  
 
 ## Features
 
@@ -101,7 +104,7 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. We b
 **Navigation bar:**  
 **Feature 01** The top navigation bar makes it easy for users to find their way around the website and access other pages. On a smaller screen size, there will be a collapsible navbar. The active page should appear bold and on hover, the text should be underlined, this applies to both desktop and collapsible nav bars.    
 
-![alt text](README-images/navbar-readme.png "Optional title")
+![Image of Navbar](README-images/navbar-readme.png "Optional title")
 
 **Social media links**  
 **Feature 02** The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice. Each social media site should appear white, on hover, it should turn black and when clicked, should open in a new tab.  
@@ -275,7 +278,7 @@ Code Institute training material
 
 **Javascript**  
 
-All javascript used on the site is within the opportnunities page and is listed below. I didn't intend on using Javascipt initially, However, as the projkect progressed, i felt it was a necessary addition to improve user experience on the site.  
+All javascript used on the site is within the opportnunities page and is listed below. I didn't intend on using Javascipt initially, However, as the project progressed, I felt it was a necessary addition to improve user experience on the site.  
 
 [Map - Google Maps API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript)  
  
