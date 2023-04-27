@@ -25,6 +25,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
 
 * [Features](#features)
   * [General Features on Every Page](#general-features-on-every-page)
+  * [General Features on Indivdual Pages](#general-features-on-individual-pages)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
