@@ -69,7 +69,7 @@ The color scheme of the INTOL website is focused on shades of grey and white, wi
 
 ![Image of color pallete in the project](README-images/color-wheel.png "Optional title")
 
-The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. I've also gone for dark colours as i believe it to be symbolic when presenting intelligence products, intelligence is usually dark in the dark when in a military environment, I have tried to portray it that way by using a dark coloured theme. Using black, greys and white is also an easy way to ensure there were not any contrasting issues throughout the website. In future updates, I may consider adding a bright color accent to the color scheme to create more visual interest.
+The use of these colors creates a clean and modern look that is easy on the eyes and helps to highlight the content on the website. I've also gone for dark colours as I believe it to be symbolic when presenting intelligence products, intelligence is usually dark in the dark when in a military environment, I have tried to portray it that way by using a dark coloured theme. Using black, greys and white is also an easy way to ensure there were not any contrasting issues throughout the website. In future updates, I may consider adding a bright color accent to the color scheme to create more visual interest.
 
 ### Typography
 
@@ -79,7 +79,7 @@ The INTOL website uses two Google Fonts for typography: Lato and Roboto. Lato is
 The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout on necessary pages of the website, which makes navigation and exploration more intuitive for visitors.  
 
 ### Symbology  
-As I have previously touched on, the colour schem i used was partly due to symbolic purposes. The same can be said for a couple of other design features throughout the site. One example is the hero image on the index page, I used the fade in so that initally it seemed like there was nothing behind the title, gradually it transpired that there was actually a very detailed image of the Earth. Another example is the spping globe that I have used on the Index page, i used this to symbolise the fact that INTOL can provide assistance on a global scale. In addition, The three capability images on the capabilities page are all displayed in the form of a circle, I have displayed them like this so that they appear as though they are being viewed through a spy glass to add to the intelligence feel of the site.
+As I have previously touched on, the colour scheme I used was partly due to symbolic purposes. The same can be said for a couple of other design features throughout the site. One example is the hero image on the index page, I used the fade in so that initally it seemed like there was nothing behind the title, gradually it transpired that there was actually a very detailed image of the Earth. Another example is the spping globe that I have used on the Index page, I used this to symbolise the fact that INTOL can provide assistance on a global scale. In addition, The three capability images on the capabilities page are all displayed in the form of a circle, I have displayed them like this so that they appear as though they are being viewed through a spy glass to add to the intelligence feel of the site.
 
 ### Imagery
 
@@ -89,7 +89,9 @@ Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay (Mo
 
 ### Wireframes
 
-[INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Link to INTOL wireframe")
+[INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Link to INTOL wireframe")  
+
+'Insert wireframe update here'
 
 ### Future updates
 As the INTOL website continues to evolve, I will continue to refine and improve the design based on feedback from our users and our own observations. I am committed to creating a website that is not only visually appealing but also easy to use and navigate, and I look forward to continuing to develop and improve our design over time.  
