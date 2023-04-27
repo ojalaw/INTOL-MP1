@@ -24,7 +24,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   * [Future Updates](#future-updates)
 
 * [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
+  * [General Features on Every Page](#general-features-on-every-page)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -32,9 +32,9 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment](#deployment)
-
 * [Testing](#testing)
+
+* [Deployment](#deployment)
 
 * [Credits](#credits)
   * [Code Used](#code-used)

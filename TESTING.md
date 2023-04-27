@@ -17,7 +17,7 @@ This site has been tested using the following testing procedures
 
 ## Code Validation  
 
-The site was run through noth wc3 and wc3 css validators.
+The site was run through both W3C and W3C CSS validators.
 
 ![Image of validator testing](README-images/validator-testing-readme.png "Optional title")  
 
@@ -70,7 +70,7 @@ The site is tested against the following criteria;
   
 **Desktop**  
   
-| Browser            | Version                                               | bugs  |
+| Browser            | Version                                               | Bugs  |
 | -------------      |:-------------:                                        | -----:|
 | Google Chrome      | Version 112.0.5615.138 (Official Build) (64-bit)      | None  |
 | Microsoft Edge     | Version 112.0.1722.58 (Official build) (64-bit)       | None  |
@@ -79,7 +79,7 @@ The site is tested against the following criteria;
 **Mobile**  
 
 
-| Device                   | Operating system | bugs  |
+| Device                   | Operating system | Bugs  |
 | -------------            |:-------------:   | -----:|
 | iPhone 12                | iOS 16.3.1       | None  |
 | iPhone 13                | iOS 16.0         | None  |
