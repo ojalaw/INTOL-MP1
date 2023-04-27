@@ -44,8 +44,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
   
   ---
 
-## User Experience (UX)
-
+## User Experience (UX)  
 
 ### User Stories
 
@@ -61,8 +60,7 @@ As an existing customer of INTOL, I want to be able to easily access support res
 User Story 4: Journalist Investigating a Story
 As a journalist investigating a story, I want to learn about INTOL's capabilities and products related to open source analysis. I want to easily find the relevant information on the website and have a clear idea of how INTOL's services can be useful for my investigation.
 
-## Design
-
+## Design  
 
 ### Colour Scheme
 
@@ -109,7 +107,7 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. I be
 **Social media links**  
 **Feature 02** The footer section includes links to INTOL's social media profiles on Facebook, Instagram, and Twitter, as well as a copyright notice. Each social media site should appear white, on hover, it should turn black and when clicked, should open in a new tab.  
 
-![alt text](README-images/socials-readme.png "Optional title")
+![Image of collapsible Navbar](README-images/socials-readme.png "Optional title")
 
 ### General features on individual pages
 
@@ -118,12 +116,12 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. I be
 **Find Out More 'button'**    
 **Feature 04** 'Find out more' button which sits on top of the hero image. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.  
 
-![alt text](README-images/hero-image-readme.png "Optional title")
+![Screenshot of Hero Image and find out more button](README-images/hero-image-readme.png "Optional title")
 
 **Spinning earth animation**    
 **Feature 05** Earth sphere animation: A standout design element on the page is the spinning Earth sphere animation, which provides a dynamic and eye-catching visual element that reinforces INTOL's global focus. There is no user interaction but the image should continue to spin and will also be present on mobile devices and smaller screens.  
 
-![alt text](README-images/spinning-earth-readme.png "Optional title")
+![Screenshot of spinning Earth](README-images/spinning-earth-readme.png "Optional title")
 
 **Capabilities button**  
 **Feature 06** The capabilities button provides a direct link to the capabilities page, where visitors can learn more about INTOL's intelligence solutions. The button should be black with a white border and white text. On hover, the button should appear white and the text should be black.
@@ -134,41 +132,38 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. I be
 **iframes**  
 **Feature 08** Janes and Maxar iframes that should open in a new link when clicked, a white border should also appear when hovered over by the cursor.  
 
-![alt text](README-images/iframe-readme.png "Optional title")
+![Screenshot of iFrame](README-images/iframe-readme.png "Optional title")
 
 **Event listener 'reveal the dog' button**
 **Feature 09** A message should appear below the button informing users that there isn't actually a dog in the image. I included this to improve user experience, however, i don't expect users to be best pleased when they realise there isn't actually a dog iin the image.  
 
-
-![alt text](README-images/event-listener-readme.png "Optional title")  
+![Screenshot of event listener](README-images/event-listener-readme.png "Optional title")  
 
 **Image zoom test**  
 **Feature 10**  There should be two images, one above the other. The image at the top should be a zoomed out image of an urban area, the image below it should be a zoomed in version of that image, the zoomed area should correspond to whatever area the cursor is hovering over on the top image. Hence providing an image zoom test. This will not display on devices below 1200px wide.  I included this feature as i felt it linked in with the opportunity theme and can give users a taste of what being an IMINT analyst might be like, i believe this improves user experience.  
 
-![alt text](README-images/img-zoom-readme.png "Optional title")  
+![Screenshot of Image zoom test](README-images/img-zoom-readme.png "Optional title")  
 
 **Google Maps API**  
 **Feature 11**  There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to fullscreen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
 
-![alt text](README-images/google-maps-api-readme.png "Optional title")  
-
+![Screenshot of Google Maps API](README-images/google-maps-api-readme.png "Optional title")  
 
 **Subscribe button**  
 **Feature 12** There should be a subscribe button that is black with a white border and white text.On hover, it should change to a white button with black text and when clicked should take users to the subscribe page. I included this as it helps with the flow of the page, i have given users a taste of what an imagery intelligence job might entail, i have notified them of a recruitment fair in a certain location and by using the subscribe button underneath, i am giving users the opportunity to move to the subscribe page with ease.  
 
-![alt text](README-images/subscribe-button-readme.png "Optional title") 
+![Screenshot of subscribe button](README-images/subscribe-button-readme.png "Optional title") 
 
 **Subscription form**  
 **Feature 13**  I have included this form to give users the opportunity to subscribe to INTOLs services and give them an option to select what intelligence discipline users may be interested in. Users may be interested in services provided or they may be interested in career opportunities, in any case, the comments box gives users the opportunity to outline their exact requirement. The different text boxes should transform to a black outline on hover and there should be a placeholder 'description of requirement' in the comments box. There should be 3 radio checkboxes that can be checked. The subscribe button should be black with a white border and white text, on hover, the button should turn white with black text, like other buttons on the site. Subscribing in its current state will result in a new tab showing the results that have been typed by https://formdump.codeinstitute.net/.     
 
-![alt text](README-images/subscribe-form-readme.png "Optional title")   
+![Screenshot of Subscription form](README-images/subscribe-form-readme.png "Optional title")   
 
 ### Future Implementations
 
 Historic archive of products, future capabilities will have their own section.  
 Light and dark versions of the site.  
 Adding a bright color accent.  
-
 
 ### Accessibility  
 
@@ -228,8 +223,7 @@ These sites were used to source the imagery for my site.
 W3schools was used to sourece javascript for my site and for certain CSS aspects (mentioned below).
 
 [PageSpeed Insights](https://pagespeed.web.dev/)   
-PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.
-
+PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.  
 
 ## Testing 
 
@@ -267,7 +261,6 @@ To deploy the website on GitHub Pages, the following steps were followed:
 
 Forking this repository will allow changes to be made without affecting the original repository.
 
-
 ## Credits
 
 ### Code Used
@@ -286,16 +279,19 @@ All javascript used on the site is within the opportnunities page and is listed 
 
 ['Reveal the dog' button - JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)  
 
+Javascript code was taken and adapted to fit the general theme of the site.  
+
 **CSS**  
 
 [Hero Image - Fade In](https://www.w3schools.com/w3css/w3css_animate.asp)  
 
 [Rotating Earth - The rotate method](https://www.w3schools.com/css/css3_2dtransforms.asp)  
 
+CSS code listed above was not copied from W3schools, this is where i discovered how i could use this code in my site.  
+
 ### Content
 
 Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are ficticious, however there are elements of truth in capabilities.  
-
 
 ###  Media
 
@@ -310,10 +306,6 @@ Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [
 Aerial -  by [Yuri-arcurs](https://stock.adobe.com/uk/contributor/210716081/yuri-arcurs-peopleimages-com?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
 ia-analysis -  by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
 crowd -  by [keithJJ](https://pixabay.com/users/keithjj-2328014/) [Pixabay](https://pixabay.com/)  
-
-
-
-
   
 ###  Acknowledgments
 
