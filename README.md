@@ -65,7 +65,7 @@ As a journalist investigating a story, I want to learn about INTOL's capabilitie
 
 ### Colour Scheme
 
-The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS:
+The color scheme of the INTOL website is focused on shades of grey and white, with the following color variables defined in the CSS (See below for colour palette).
 
 ![Image of color pallete in the project](README-images/color-wheel.png "Optional title")
 
@@ -261,6 +261,8 @@ To deploy the website on GitHub Pages, the following steps were followed:
 - Click the dropdown button and click 'create a new fork'.  
 - This will bring up a page with details of the respository, fill in boxes as required.
 - Click 'create fork'.  
+
+For further guidance [click here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  
 
 Forking this repository will allow changes to be made without affecting the original repository.
 
