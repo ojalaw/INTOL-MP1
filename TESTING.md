@@ -21,7 +21,7 @@ The site was run through both W3C and W3C CSS validators.
 
 ![Image of validator testing](README-images/validator-testing-readme.png "Optional title")  
 
-The results above apply no all pages, no errors were identified in the HTML files, see links to results below.  
+The results above apply to all pages, no errors were identified in the HTML files, see links to results below.  
 
 Index page - https://validator.w3.org/nu/?doc=https%3A%2F%2Fojalaw.github.io%2FINTOL-MP1%2Findex.html  
 About us - https://validator.w3.org/nu/?doc=https%3A%2F%2Fojalaw.github.io%2FINTOL-MP1%2Fabout-us.html  
@@ -31,7 +31,7 @@ Subscribe - https://validator.w3.org/nu/?doc=https%3A%2F%2Fojalaw.github.io%2FIN
 
 ![Image of CCS Validator testing](README-images/css-validator-testing-readme.png "Optional title")  
 
-The results above apply no all pages, no errors were identified in the CSS file, see link to results below.  
+The results above apply to all pages, no errors were identified in the CSS file, see link to results below.  
 
 CSS - https://jigsaw.w3.org/css-validator/validator  
 
