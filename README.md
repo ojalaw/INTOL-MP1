@@ -298,17 +298,17 @@ Other than the code previously mentioned in the code used section, I was respons
 
 ###  Media
 
-ia-analysis - by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
-Road - by user [patsch.1](https://www.shutterstock.com/g/patsch1) [Shutterstock](https://www.shutterstock.com/)  
-Marina - by user [Meaning](https://www.shutterstock.com/g/meaning) [Shutterstock](https://www.shutterstock.com/)  
-Arab Spring - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni) [Shutterstock](https://www.shutterstock.com/)  
-Social Media - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/)  
-Map of Europe - by user [Meda01](https://www.shutterstock.com/g/meda01) [Shutterstock](https://www.shutterstock.com/)   
-Spinning Earth - by [Yellow duck](https://stock.adobe.com/uk/contributor/210464354/yellow-duck?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
-Hero-image - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)  
-Aerial -  by [Yuri-arcurs](https://stock.adobe.com/uk/contributor/210716081/yuri-arcurs-peopleimages-com?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
-ia-analysis -  by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
-crowd -  by [keithJJ](https://pixabay.com/users/keithjj-2328014/) [Pixabay](https://pixabay.com/)  
+ia-analysis.jpg - by [Cesar Henriqwue Noda](https://www.shutterstock.com/nb/g/cesar+henrique+noda?studio=1) [Shutterstock](https://www.shutterstock.com/)  
+road.jpg - by user [patsch.1](https://www.shutterstock.com/g/patsch1) [Shutterstock](https://www.shutterstock.com/)  
+marina.jpg - by user [Meaning](https://www.shutterstock.com/g/meaning) [Shutterstock](https://www.shutterstock.com/)  
+arab-spring.jpg - by user [akramalrasny](https://www.shutterstock.com/g/akramalrasni) [Shutterstock](https://www.shutterstock.com/)  
+osint.jpg - by user [rvlsoft](https://www.shutterstock.com/g/rvlsoft) [Shutterstock](https://www.shutterstock.com/)  
+geoint.jpg - by user [Meda01](https://www.shutterstock.com/g/meda01) [Shutterstock](https://www.shutterstock.com/)   
+final-earth.png - by [Yellow duck](https://stock.adobe.com/uk/contributor/210464354/yellow-duck?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
+new-hero.jpg - by [Placidplace](https://pixabay.com/users/placidplace-25572496/) [Pixabay](https://pixabay.com/)  
+aerial.jpeg -  by [Yuri-arcurs](https://stock.adobe.com/uk/contributor/210716081/yuri-arcurs-peopleimages-com?load_type=author&prev_url=detail) [Adobe Stock](https://stock.adobe.com/uk/)  
+crowd.jpg -  by [keithJJ](https://pixabay.com/users/keithjj-2328014/) [Pixabay](https://pixabay.com/)  
+imint.jpg - by [Naeblys](https://www.shutterstock.com/g/vampy1) [Shutterstock](https://www.shutterstock.com/)  
   
 ###  Acknowledgments
 
