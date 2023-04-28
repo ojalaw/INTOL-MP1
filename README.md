@@ -1,8 +1,8 @@
 # INTOL
 
-INTOL is a site that provides intelligence solutions for customers. There is an initial focus on 3 different capabilities, Imagery intelligence, Geospatial Intelligence and Open Source Intelligence. These types of intelligence are relatively unknown but with the right exposure, could be hugely beneficial to business/individuals condicting activities in a vulnerable area ir region. The website sheds light on what the different types of intelligence are, the products that can be created and the training that respective analysts go through to be qualified.
+INTOL is a site that provides intelligence solutions for customers. There is an initial focus on 3 different capabilities, Imagery intelligence, Geospatial Intelligence and Open Source Intelligence. These types of intelligence are relatively unknown but with the right exposure, could be hugely beneficial to business/individuals condicting activities in a vulnerable area/region. The website sheds light on what the different types of intelligence are, the products that can be created and the training that respective analysts go through to be qualified.
 
-This is Milestone Project 1 for Code Institute's Diploma in Web Application Development course. This website features five pages and is built using technologies that I have learnt since staring the course including HTML and CSS and also contains Javascript.
+This is Milestone Project 1 for a Level 5 Diploma in Web Application Development. This website features five pages and is built using technologies that I have learnt since staring the course including HTML and CSS and also contains Javascript.
 
 ![alt text](README-images/mockup.png "Optional title")
 
