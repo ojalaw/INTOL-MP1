@@ -195,4 +195,6 @@ I made the necessary changes by adding Bootstrap and adapting existing CSS to ma
 
 The final bug i discovered was regarding the spinning globe animation on the index page. The animation worked fine on desktop. However, there was an issue on screen sizes below 420px. As the div started to spin, the corner of the div started to overflow the container and push the page horizontally. To correct this, I added code to have the overflow hidden and this solved the issue.
 
+[Back to README.md](https://github.com/ojalaw/INTOL-MP1#deployment)
+
 
