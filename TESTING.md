@@ -48,8 +48,8 @@ The site is tested against the following criteria;
 
 **Index**  
 
-- Index desktop lighthouse score [here](README-images/Index-desktop-lighthouse.png "Optional title")  
-- Index mobile lighthouse score [here](README-images/Index-mobile-lighthouse.png "Optional title")  
+- Index desktop lighthouse score [here](README-images/index-desktop-lighthouse.png "Optional title")  
+- Index mobile lighthouse score [here](README-images/index-mobile-lighthouse.png "Optional title")  
 
 **About us**  
 

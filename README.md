@@ -91,7 +91,7 @@ Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay (Mo
 
 [INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Link to INTOL wireframe")  
 
-'Insert wireframe update here'
+There have been some changes since the wireframe was created. I have created a new page within the site called 'opportunities' that is not present in the wireframe. This was because i felt that the content that i had included could be split into two separate pages. I also changed the 'subscribe' page slightly when comparing it to how I had originally anticipated it. I originally intended there to be radioboxes within the form and an adjacent text box. The reason why I opted for checkboxes as i would like users to have the option to select more than one of the options rather than restricting users to jkust one with the radioboxes. I also felt the text box didn't add much value.    
 
 ### Future updates
 As the INTOL website continues to evolve, I will continue to refine and improve the design based on feedback from our users and our own observations. I am committed to creating a website that is not only visually appealing but also easy to use and navigate, and I look forward to continuing to develop and improve our design over time.  
