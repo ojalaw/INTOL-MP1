@@ -31,7 +31,7 @@ Subscribe - https://validator.w3.org/nu/?doc=https%3A%2F%2Fojalaw.github.io%2FIN
 
 ![Image of CCS Validator testing](README-images/css-validator-testing-readme.png "Optional title")  
 
-The results above apply to all pages, no errors were identified in the CSS file, see link to results below.  
+No errors were identified in the CSS file, see link to results below.  
 
 CSS - https://jigsaw.w3.org/css-validator/validator  
 
