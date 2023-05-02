@@ -456,7 +456,7 @@
 .int-preference-section label,
 .int-preference-section input[type="checkbox"] {
  display: inline-block;
- margin-right: 10px;
+ 
 }
 
 .form-section {
@@ -467,6 +467,18 @@
 ::placeholder {
   font-weight: bold;
   color: var(--white);
+}
+
+.thankyou-container {
+  text-align: center;
+}
+.thankyou-message {
+  display: inline-block;
+  text-align: center;
+  background-color: var(--midgrey);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 40px;
 }
 
 
