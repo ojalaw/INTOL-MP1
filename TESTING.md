@@ -156,8 +156,12 @@ Form
 - Checkboxes work as expected.  
 
 Subscribe button  
-- Subsribe button changes appearance on hover as expected.  
-- When clicked, the form is submitted and openened on a new form as expected.  
+- Subscribe button changes appearance on hover as expected.  
+- When clicked, the form is submitted and opened on a new form as expected.  
+
+Return to homepage button on thankyou page
+- Subscribe button changes appearance on hover as expected.
+- When clicked, the button navigates user back to home page.
 
 **Usability**  
 
