@@ -8,7 +8,7 @@ This site has been tested using the following testing procedures
 
 * [Lighthouse Testing](#Lighthouse-Testing)
 
-* [Browser Comaptibility](#Browser-Compatibility)
+* [Browser Compatibility](#Browser-Compatibility)
 
 * [Manual Testing](#Manual-Testing)
 
@@ -114,7 +114,7 @@ Find Out More button
 
 Spinning globe on all devices  
 - The spinning globe remains central and continues to spin regardless of the device.
-- The spinning globe does not appear strecthed or distorted.  
+- The spinning globe does not appear stretched or distorted.  
 
 View capabilities button  
 - The button navigated to the capabilities page as expected.  
@@ -137,7 +137,7 @@ iframes
 **Opportunities page**  
 Reveal the dog button  
 - The button changes appearance on hover as expected.  
-- The button revelas a message underneath when clicked as expected.  
+- The button reveals a message underneath when clicked as expected.  
 
 img-zoom  
 - The image zoom capability function works as expected.  
@@ -165,7 +165,7 @@ Return to homepage button on thankyou page
 
 **Usability**  
 
-Some users found the images at the bottom of the page confusing. They were initally set to display a border on hover but there was no option to click on the actual image.  
+Some users found the images at the bottom of the page confusing. They were initially set to display a border on hover but there was no option to click on the actual image.  
 
 **Responsiveness**  
 
@@ -179,9 +179,9 @@ The generic bootstrap break points used within this site are;
 
 I also added a media-query at 1200px which effect both the capabilities and opportunities pages. 
 
-There were responsive issues on the Opportunities and Subscribe page, the default margin and padding that Bootstrap uses was causing overflow-x. To correct this, I added more bootstrap which removed the margin and padding. This was required on the capabilities page as I felt that a change was required but it was still too wide for the different capabilities to be stacked on top of eachother. The same breakpoint was required on the opportunities as i could not seem to get the Javascript to work on small devices, to counter this, the feature is hidden on devices less than 1200px and the other image test takes up the entire page.
+There were responsive issues on the Opportunities and Subscribe page, the default margin and padding that Bootstrap uses was causing overflow-x. To correct this, I added more bootstrap which removed the margin and padding. This was required on the capabilities page as I felt that a change was required but it was still too wide for the different capabilities to be stacked on top of each other. The same breakpoint was required on the opportunities as i could not seem to get the Javascript to work on small devices, to counter this, the feature is hidden on devices less than 1200px and the other image test takes up the entire page.
 
-I also added a breakpoint at 1078px for the iframes on the 'About us' page, this was to correct an issue whereby the iframes were overflowing the container that they were contained within, to correct this i use the repsonisve tool within google chrome dev tools to work out at which point i would need to add a break point.
+I also added a breakpoint at 1078px for the iframes on the 'About us' page, this was to correct an issue whereby the iframes were overflowing the container that they were contained within, to correct this i use the responsive tool within google chrome dev tools to work out at which point i would need to add a break point.
 
 I added another breakpoint at 320px as the bootstrap was adding default padding and margins that i could not remove completely as the design would not work as intended as screen size increases.
 
@@ -189,9 +189,9 @@ I added another breakpoint at 320px as the bootstrap was adding default padding 
 
 ## Bug Reporting
 
-There were a few bugs discovered during the intial testing. I hadn't tested the responsiveness of the site on medium/large screens extensively and as a result;  
+There were a few bugs discovered during the initial testing. I hadn't tested the responsiveness of the site on medium/large screens extensively and as a result;  
 - iframes overflowed the container.  
-- Form on the subscription page was not responsive in the way I orginally intended.  
+- Form on the subscription page was not responsive in the way I originally intended.  
 - Images on the opportunity page were not responsive.  
 - The nav bar was very cluttered on smaller screens meaning i needed to change the breakpoint for the collapsible navbar.  
 

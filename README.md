@@ -1,6 +1,6 @@
 # INTOL
 
-INTOL is a site that provides intelligence solutions for customers. There is an initial focus on 3 different capabilities, Imagery intelligence, Geospatial Intelligence and Open Source Intelligence. These types of intelligence are relatively unknown but with the right exposure, could be hugely beneficial to business/individuals condicting activities in a vulnerable area/region. The website sheds light on what the different types of intelligence are, the products that can be created and the training that respective analysts go through to be qualified.
+INTOL is a site that provides intelligence solutions for customers. There is an initial focus on 3 different capabilities, Imagery intelligence, Geospatial Intelligence and Open Source Intelligence. These types of intelligence are relatively unknown but with the right exposure, could be hugely beneficial to business/individuals conducting activities in a vulnerable area/region. The website sheds light on what the different types of intelligence are, the products that can be created and the training that respective analysts go through to be qualified.
 
 This is Milestone Project 1 for a Level 5 Diploma in Web Application Development. This website features five pages and is built using technologies that I have learnt since staring the course including HTML and CSS and also contains Javascript.
 
@@ -25,7 +25,7 @@ Link to live site: https://ojalaw.github.io/INTOL-MP1/
 
 * [Features](#features)
   * [General Features on Every Page](#general-features-on-every-page)
-  * [General Features on Indivdual Pages](#general-features-on-individual-pages)
+  * [General Features on Individual Pages](#general-features-on-individual-pages)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -79,7 +79,7 @@ The INTOL website uses two Google Fonts for typography: Lato and Roboto. Lato is
 The layout of the INTOL website is built using the Bootstrap framework, which provides a responsive grid system that allows the website to adapt to different screen sizes and devices. The use of a grid system helps to create a consistent layout on necessary pages of the website, which makes navigation and exploration more intuitive for visitors.  
 
 ### Symbology  
-As I have previously touched on, the colour scheme I used was partly due to symbolic purposes. The same can be said for a couple of other design features throughout the site. One example is the hero image on the index page, I used the fade in so that initally it seemed like there was nothing behind the title, gradually it transpired that there was actually a very detailed image of the Earth. Another example is the spping globe that I have used on the Index page, I used this to symbolise the fact that INTOL can provide assistance on a global scale. In addition, The three capability images on the capabilities page are all displayed in the form of a circle, I have displayed them like this so that they appear as though they are being viewed through a spy glass to add to the intelligence feel of the site.
+As I have previously touched on, the colour scheme I used was partly due to symbolic purposes. The same can be said for a couple of other design features throughout the site. One example is the hero image on the index page, I used the fade in so that initially it seemed like there was nothing behind the title, gradually it transpired that there was actually a very detailed image of the Earth. Another example is the spinning globe that I have used on the Index page, I used this to symbolise the fact that INTOL can provide assistance on a global scale. In addition, The three capability images on the capabilities page are all displayed in the form of a circle, I have displayed them like this so that they appear as though they are being viewed through a spy glass to add to the intelligence feel of the site.
 
 ### Imagery
 
@@ -91,7 +91,7 @@ Imagery on the site was sourced from Shutterstock and Adobestock and Pixabay (Mo
 
 [INTOL Wireframe](README-images/Initial-INTOL-Wireframe.pdf "Link to INTOL wireframe")  
 
-There have been some changes since the wireframe was created. I have created a new page within the site called 'opportunities' that is not present in the wireframe. This was because i felt that the content that i had included could be split into two separate pages. I also changed the 'subscribe' page slightly when comparing it to how I had originally anticipated it. I originally intended there to be radioboxes within the form and an adjacent text box. The reason why I opted for checkboxes as i would like users to have the option to select more than one of the options rather than restricting users to jkust one with the radioboxes. I also felt the text box didn't add much value.    
+There have been some changes since the wireframe was created. I have created a new page within the site called 'opportunities' that is not present in the wireframe. This was because i felt that the content that i had included could be split into two separate pages. I also changed the 'subscribe' page slightly when comparing it to how I had originally anticipated it. I originally intended there to be radioboxes within the form and an adjacent text box. The reason why I opted for checkboxes as i would like users to have the option to select more than one of the options rather than restricting users to just one with the radioboxes. I also felt the text box didn't add much value.    
 
 ### Future updates
 As the INTOL website continues to evolve, I will continue to refine and improve the design based on feedback from our users and our own observations. I am committed to creating a website that is not only visually appealing but also easy to use and navigate, and I look forward to continuing to develop and improve our design over time.  
@@ -148,7 +148,7 @@ Overall, the design of the INTOL website is clean, modern, and easy to use. I be
 ![Screenshot of Image zoom test](README-images/img-zoom-readme.png "Optional title")  
 
 **Google Maps API**  
-**Feature 11**  There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to fullscreen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
+**Feature 11**  There should be an area towards the bottom of the page that includes a google maps inset with a marker present at the site of the recruitment fair at SIS building. There should be an option to expand the map out to full screen and when places on the map are clicked, user should be prompted to 'view on google maps' this should open google in a new tab. I included this to notify users of where the next recruitment fair would be taking place, in my experience, it is common for google maps to be present on sites in a situation like this.  
 
 ![Screenshot of Google Maps API](README-images/google-maps-api-readme.png "Optional title")  
 
@@ -180,7 +180,7 @@ I have included alt text descriptions for all images to provide context and info
 **HTML5**  
 Used for creation of markup for the website content.  
 **CSS**  
-Cascading style sheets used to style the inidividual pages.  
+Cascading style sheets used to style the individual pages.  
 **Javascript**  
 Scripting language used to make aspects of the site interactive.
 
@@ -193,7 +193,7 @@ Bootstrap was used to assist with the responsiveness and styling of the website.
 jQuery came with Bootstrap to make the navbar responsive.
 
 [CDN jsdelivr](https://www.jsdelivr.com/)  
-CDN jsdeliver was used to serve static assets bootstrap and jquery to improve peformance and reliability.
+CDN jsdeliver was used to serve static assets bootstrap and jquery to improve performance and reliability.
 
 [Google Fonts](https://fonts.google.com/)  
 Google fonts were used to import Lato and Roboto fonts which is used on all pages throughout the project.
@@ -223,7 +223,7 @@ Google Chrome Dev Tools was used during the testing phase to test the responsive
 These sites were used to source the imagery for my site.
 
 [W3schools](https://www.w3schools.com/)    
-W3schools was used to sourece javascript for my site and for certain CSS aspects (mentioned below).
+W3schools was used to source javascript for my site and for certain CSS aspects (mentioned below).
 
 [PageSpeed Insights](https://pagespeed.web.dev/)   
 PageSpeed Insights was used as a backup to Google Chrome Dev tools when lighthouse testing my site.  
@@ -259,7 +259,7 @@ To deploy the website on GitHub Pages, the following steps were followed:
 - Go to the https://github.com/ojalaw/INTOL-MP1 repository on GitHub.
 - Click on the 'Fork' option towards the top left of the page.  
 - Click the dropdown button and click 'create a new fork'.  
-- This will bring up a page with details of the respository, fill in boxes as required.
+- This will bring up a page with details of the repository, fill in boxes as required.
 - Click 'create fork'.  
 
 For further guidance [click here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  
@@ -276,7 +276,7 @@ Code Institute training material
 
 **Javascript**  
 
-All javascript used on the site is within the opportnunities page and is listed below. I didn't intend on using Javascipt initially, However, as the project progressed, I felt it was a necessary addition to improve user experience on the site.  
+All javascript used on the site is within the opportunities page and is listed below. I didn't intend on using Javascipt initially, However, as the project progressed, I felt it was a necessary addition to improve user experience on the site.  
 
 [Map - Google Maps API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map#javascript)  
  
@@ -296,7 +296,7 @@ CSS code listed above was not copied from W3schools, this is where i discovered 
 
 ### Content
 
-Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are ficticious, however there are elements of truth in capabilities.  
+Other than the code previously mentioned in the code used section, I was responsible for writing all of the content for the website. Although this is a genuine business idea, at this stage, the company and associated training, recruitment fairs are fictitious, however there are elements of truth in capabilities.  
 
 ###  Media
 
