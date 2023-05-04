@@ -35,12 +35,6 @@
 
   /*--home-page--*/
 
-.intol-statement {
-   text-align: center;
-   margin-top: 20px;
-
- }
-
  .key-heading {
    padding: 20px 5px 20px 5px;
    background-color: var(--midgrey);
@@ -249,7 +243,7 @@
 
 /*--about-us-page--*/
 
-.intol-statement {
+.page-heading {
    text-align: center;
    margin-top: 20px;
  }
